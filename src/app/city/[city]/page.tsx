@@ -4,6 +4,8 @@ import { notFound } from 'next/navigation';
 import {CITY_SLUG_TO_INFO, CITY_SLUGS, CitySlug} from "~/data/cities";
 import {Card, CardContent, CardFooter, CardTitle} from "~/components/ui/card";
 import {Separator} from "~/components/ui/separator";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "~/components/ui/tabs";
+
 import Link from "next/link";
 
 function capitalize(word: string) {
@@ -45,7 +47,7 @@ export default function Page({ params }: { params: { city: string } }) {
             </CardTitle>
             <Separator />
             <CardContent className="px-4 py-2">
-                Are you counting calories or tracking macros? Use this directory to find restaurants in {city.name} that have nutrition information available for the menu.
+                Are you counting calories or tracking macros? Use this directory to find restaurants in {city.name} that have menus with nutrition information.
             </CardContent>
             <Separator />
             <CardFooter className="px-4 py-2 text-xs text-center flex flex-col md:flex-row md:gap-1">
@@ -53,7 +55,16 @@ export default function Page({ params }: { params: { city: string } }) {
                 <p><Link href="https://www.mealbymeal.com/" className="font-bold hover:underline whitespace-nowrap">Try counting calories over text with MealByMeal!</Link></p>
             </CardFooter>
         </Card>
-        <div>todo: add map</div>
+        <Tabs defaultValue="map">
+            <TabsList>
+                <TabsTrigger value="map">Map</TabsTrigger>
+                <TabsTrigger value="list">List</TabsTrigger>
+                <TabsTrigger value="filter">Filter</TabsTrigger>
+            </TabsList>
+            <TabsContent value="map">todo: map</TabsContent>
+            <TabsContent value="list">todo: list</TabsContent>
+            <TabsContent value="filter">todo: filter</TabsContent>
+        </Tabs>
     </>;
 
 }
