@@ -5,13 +5,18 @@ import { LoadingSpinner } from "~/components/loading-spinner";
 import React, { useState } from "react";
 import { CityInfo } from "~/data/cities";
 import dynamic from "next/dynamic";
+import {getRestaurantColumns} from "~/components/restaurant-columns";
+import {RestaurantTable} from "~/components/restaurant-table";
+import {usePathname} from "next/navigation";
 
 const CityMap = dynamic(() => import("~/components/city-map"), {
   ssr: false,
 });
 
 export function CityTabs({ city }: { city: CityInfo }) {
+  const pathname = usePathname();
   const [loading, setLoading] = useState(true);
+  const restaurantColumns = getRestaurantColumns(pathname);
 
   return (
     <Tabs defaultValue="map">
@@ -19,7 +24,6 @@ export function CityTabs({ city }: { city: CityInfo }) {
         <TabsList className="mb-2">
           <TabsTrigger value="map">Map</TabsTrigger>
           <TabsTrigger value="list">List</TabsTrigger>
-          <TabsTrigger value="filter">Filter</TabsTrigger>
         </TabsList>
         <div className="pt-1.5">
           <LoadingSpinner loading={loading} />
@@ -33,12 +37,8 @@ export function CityTabs({ city }: { city: CityInfo }) {
         />
       </TabsContent>
       <TabsContent value="list">
-        todo: list
-        {city.restaurants.map((r) => {
-          return <div key={JSON.stringify(r)}>{r.name}</div>;
-        })}
+          <RestaurantTable columns={restaurantColumns} data={city.restaurants} />
       </TabsContent>
-      <TabsContent value="filter">todo: filter</TabsContent>
     </Tabs>
   );
 }

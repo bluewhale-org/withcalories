@@ -1,4 +1,5 @@
 export interface Restaurant {
+  id: string;
   name: string;
   street_address: string;
   city: string;
@@ -14,4 +15,7 @@ export interface Restaurant {
   grubhub_url?: string;
   other_delivery_url?: string;
   hours: string[];
+
+  latitude: string;
+  longitude: string;
 }

@@ -2,7 +2,6 @@
 
 import { Restaurant } from "~/data/restaurants";
 import { Marker, Popup } from "react-leaflet";
-import slugify from "slugify";
 import { usePathname } from "next/navigation";
 import Link from "next/link";
 
@@ -19,11 +18,11 @@ export function RestaurantMarkers(props: { restaurants: Restaurant[] }) {
           >
             <Popup>
               <>
-                <Link href={`${pathname}/${slugify(r.name).toLowerCase()}`}>
+                <Link href={`${pathname}/${r.id}`}>
                   <strong>{r.name}</strong>
                 </Link>
                 <br />
-                {r.full_address}
+                {r.street_address}
               </>
             </Popup>
           </Marker>
