@@ -25,8 +25,8 @@ export const CITY_SLUG_TO_INFO: Record<CitySlug, CityInfo> = {
       minZoom: 11.75,
       maxZoom: 18,
       maxBounds: [
-        [37.6, -122.6],
-        [37.85, -122.1],
+        [36.6879, -123.7930],
+        [38.8619, -121.0458],
       ],
       zoomSnap: 0.1,
       zoomDelta: 1.0,

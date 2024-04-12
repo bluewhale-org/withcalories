@@ -8,7 +8,7 @@ export function MapLoader() {
 
   /* eslint-disable-next-line @typescript-eslint/no-unsafe-assignment  */
   const layer = leafletLayer({
-    url: "https://withcalories-tileserver.blue-whale.workers.dev/sf/{z}/{x}/{y}.mvt",
+    url: "https://withcalories-tileserver.blue-whale.workers.dev/sf2/{z}/{x}/{y}.mvt",
   });
 
   /* eslint-disable-next-line @typescript-eslint/no-unsafe-member-access,@typescript-eslint/no-unsafe-call  */
