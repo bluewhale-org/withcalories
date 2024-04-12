@@ -35,7 +35,7 @@ export function CityTabs({ city }: { city: CityInfo }) {
       <TabsContent value="list">
         todo: list
         {city.restaurants.map((r) => {
-          return <>{r.name}</>;
+          return <div key={JSON.stringify(r)}>{r.name}</div>;
         })}
       </TabsContent>
       <TabsContent value="filter">todo: filter</TabsContent>
