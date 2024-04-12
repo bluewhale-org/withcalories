@@ -29,7 +29,7 @@ export const CITY_SLUG_TO_INFO: Record<CitySlug, CityInfo> = {
         [37.85, -122.1],
       ],
       zoomSnap: 0.1,
-      zoomDelta: 0.1,
+      zoomDelta: 1.0,
     },
   },
 };
