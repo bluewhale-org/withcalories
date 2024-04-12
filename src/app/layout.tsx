@@ -8,6 +8,8 @@ import {Card, CardTitle} from "~/components/ui/card";
 import {Button} from "~/components/ui/button";
 import {FaCity} from "react-icons/fa";
 
+import 'leaflet/dist/leaflet.css';
+
 const inter = Inter({
   subsets: ["latin"],
   variable: "--font-sans",

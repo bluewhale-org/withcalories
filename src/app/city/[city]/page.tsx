@@ -7,6 +7,7 @@ import {Separator} from "~/components/ui/separator";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "~/components/ui/tabs";
 
 import Link from "next/link";
+import {CityMap} from "~/components/city-map";
 
 function capitalize(word: string) {
     return word.charAt(0).toUpperCase() + word.toLowerCase().slice(1);
@@ -61,8 +62,17 @@ export default function Page({ params }: { params: { city: string } }) {
                 <TabsTrigger value="list">List</TabsTrigger>
                 <TabsTrigger value="filter">Filter</TabsTrigger>
             </TabsList>
-            <TabsContent value="map">todo: map</TabsContent>
-            <TabsContent value="list">todo: list</TabsContent>
+            <TabsContent value="map">
+                <CityMap options={city.mapOptions} />
+            </TabsContent>
+            <TabsContent value="list">
+                todo: list
+                {city.restaurants.map(r => {
+                    return (
+                        <>{r.name}</>
+                    )
+                })}
+            </TabsContent>
             <TabsContent value="filter">todo: filter</TabsContent>
         </Tabs>
     </>;
