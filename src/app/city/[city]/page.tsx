@@ -6,18 +6,10 @@ import {
   Card,
   CardContent,
   CardDescription,
-  CardFooter,
   CardTitle,
 } from "~/components/ui/card";
-import { Separator } from "~/components/ui/separator";
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "~/components/ui/tabs";
-
 import Link from "next/link";
-import dynamic from "next/dynamic";
-
-const CityMap = dynamic(() => import("~/components/city-map"), {
-  ssr: false,
-});
+import { CityTabs } from "~/components/city-tabs";
 
 export async function generateMetadata({
   params,
@@ -65,26 +57,7 @@ export default function Page({ params }: { params: { city: string } }) {
           </span>
         </CardDescription>
         <CardContent className="p-4">
-          <Tabs defaultValue="map">
-            <TabsList className="mb-2">
-              <TabsTrigger value="map">Map</TabsTrigger>
-              <TabsTrigger value="list">List</TabsTrigger>
-              <TabsTrigger value="filter">Filter</TabsTrigger>
-            </TabsList>
-            <TabsContent value="map">
-              <CityMap
-                options={city.mapOptions}
-                restaurants={city.restaurants}
-              />
-            </TabsContent>
-            <TabsContent value="list">
-              todo: list
-              {city.restaurants.map((r) => {
-                return <>{r.name}</>;
-              })}
-            </TabsContent>
-            <TabsContent value="filter">todo: filter</TabsContent>
-          </Tabs>
+          <CityTabs city={city} />
         </CardContent>
       </Card>
     </>
