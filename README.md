@@ -16,7 +16,7 @@ If you would like to add a restaurant, modify restaurant hours/links, etc just c
 
 ### Features
 
-Please create an issue to discuss features before implementing them. This makes it possible 
+Please create an issue to discuss features before implementing them. This makes it possible
 
 ### Easiest ways to contribute
 
