@@ -1,3 +1,5 @@
+"use client"
+
 import {useMap, useMapEvents} from "react-leaflet";
 import { leafletLayer } from 'protomaps';
 

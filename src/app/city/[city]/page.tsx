@@ -7,7 +7,11 @@ import {Separator} from "~/components/ui/separator";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "~/components/ui/tabs";
 
 import Link from "next/link";
-import {CityMap} from "~/components/city-map";
+import dynamic from "next/dynamic";
+
+const CityMap = dynamic(() => import("~/components/city-map"), {
+    ssr: false
+});
 
 function capitalize(word: string) {
     return word.charAt(0).toUpperCase() + word.toLowerCase().slice(1);
