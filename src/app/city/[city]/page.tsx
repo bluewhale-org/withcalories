@@ -10,6 +10,7 @@ import {
 } from "~/components/ui/card";
 import Link from "next/link";
 import { CityTabs } from "~/components/city-tabs";
+import {MealByMealCardDescription} from "~/components/mealbymeal-banner";
 
 export async function generateMetadata({
   params,
@@ -45,17 +46,7 @@ export default function Page({ params }: { params: { city: string } }) {
           <span>{city.name}</span>
           {city.icon}
         </CardTitle>
-        <CardDescription className="flex flex-col bg-amber-200 px-4 py-2 text-xs text-amber-900 md:flex-row md:gap-1">
-          <span>Want to track calories easily at any restaurant?</span>
-          <span>
-            <Link
-              href="https://www.mealbymeal.com/?utm_source=withcalories"
-              className="whitespace-nowrap font-bold hover:underline"
-            >
-              Try counting calories over text with MealByMeal!
-            </Link>
-          </span>
-        </CardDescription>
+        <MealByMealCardDescription />
         <CardContent className="p-4">
           <CityTabs city={city} />
         </CardContent>

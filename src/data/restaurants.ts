@@ -5,8 +5,9 @@ export interface Restaurant {
   city: string;
   state: string;
   zip: string;
+  website_url?: string;
   menu_url?: string;
-  nutrition_calculator?: string;
+  nutrition_url?: string;
   takeout: boolean;
   delivery: boolean;
   doordash_url?: string;
