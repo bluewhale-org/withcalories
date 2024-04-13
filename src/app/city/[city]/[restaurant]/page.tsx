@@ -197,11 +197,11 @@ export default function Page({
               {restaurant.hours.length > 0 ? (
                 <ul className="list-disc p-4 py-2">
                   {restaurant.hours.map((hour) => {
-                    const [beforeColon, afterColon] = hour.split(/:(.+)/);
+                    const [before, after] = hour;
 
                     return (
-                      <li key={beforeColon}>
-                        <strong>{beforeColon}</strong>: {afterColon}
+                      <li key={before}>
+                        <strong>{before}</strong>: {after}
                       </li>
                     );
                   })}

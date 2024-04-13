@@ -15,8 +15,7 @@ export interface Restaurant {
   ubereats_url?: string;
   grubhub_url?: string;
   other_delivery_url?: string;
-  hours: string[];
-
+  hours: [string, string][];
   latitude: string;
   longitude: string;
 }
