@@ -59,14 +59,14 @@ export default function Page({
   }
 
   const hasLink =
-    restaurant.website_url ??
-    restaurant.menu_url ??
-    restaurant.nutrition_url ??
-    restaurant.other_delivery_url ??
-    restaurant.grubhub_url ??
-    restaurant.ubereats_url ??
-    restaurant.doordash_url ??
-    restaurant.postmates_url;
+    (restaurant.website_url ||
+      restaurant.menu_url ||
+      restaurant.nutrition_url ||
+      restaurant.other_delivery_url ||
+      restaurant.grubhub_url ||
+      restaurant.ubereats_url ||
+      restaurant.doordash_url ||
+      restaurant.postmates_url) !== undefined;
 
   return (
     <>
@@ -76,7 +76,7 @@ export default function Page({
         </CardTitle>
         <MealByMealCardDescription />
         <CardContent className="px-0 pb-0">
-          {hasLink ?? (
+          {hasLink && (
             <>
               <div className="flex gap-4 p-4">
                 {restaurant.website_url && (
