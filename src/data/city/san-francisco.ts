@@ -42,7 +42,7 @@ export const sanFrancisco: Restaurant[] = [
     nutrition_url: "https://www.souvla.com/menu/nutritional-information/",
     takeout: true,
     delivery: true,
-    doordash_url: undefined,
+    doordash_url: "https://www.doordash.com/store/souvla-san-francisco-680670/",
     postmates_url: undefined,
     ubereats_url: undefined,
     grubhub_url: undefined,
