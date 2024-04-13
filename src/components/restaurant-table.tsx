@@ -55,7 +55,13 @@ export function RestaurantTable({ columns, data }: DataTableProps) {
       rowSelection,
     },
     initialState: {
-      columnVisibility: { id: false },
+      columnVisibility: {
+        id: false,
+        description: false,
+        city: false,
+        state: false,
+        zip: false,
+      },
     },
   });
 

@@ -4,6 +4,8 @@ export const sanFrancisco: Restaurant[] = [
   {
     id: "souvla-517-hayes-st-san-francisco",
     name: "Souvla",
+    description:
+      "Snug, rustic-chic kitchen featuring Greek meze, skewers, mains & salads.",
     street_address: "517 Hayes St",
     city: "San Francisco",
     state: "CA",
@@ -33,6 +35,8 @@ export const sanFrancisco: Restaurant[] = [
   {
     id: "souvla-531-divisadero-st",
     name: "Souvla",
+    description:
+      "Snug, rustic-chic kitchen featuring Greek meze, skewers, mains & salads.",
     street_address: "531 Divisadero St",
     city: "San Francisco",
     state: "CA",
@@ -62,6 +66,8 @@ export const sanFrancisco: Restaurant[] = [
   {
     id: "souvla-2272-chestnut-st",
     name: "Souvla",
+    description:
+      "Snug, rustic-chic kitchen featuring Greek meze, skewers, mains & salads.",
     street_address: "2272 Chestnut St",
     city: "San Francisco",
     state: "CA",
@@ -91,6 +97,8 @@ export const sanFrancisco: Restaurant[] = [
   {
     id: "souvla-758-valencia-st",
     name: "Souvla",
+    description:
+      "Snug, rustic-chic kitchen featuring Greek meze, skewers, mains & salads.",
     street_address: "758 Valencia St",
     city: "San Francisco",
     state: "CA",
@@ -120,6 +128,8 @@ export const sanFrancisco: Restaurant[] = [
   {
     id: "souvla-2505-3rd-st",
     name: "Souvla",
+    description:
+      "Snug, rustic-chic kitchen featuring Greek meze, skewers, mains & salads.",
     street_address: "2505 3rd St",
     city: "San Francisco",
     state: "CA",

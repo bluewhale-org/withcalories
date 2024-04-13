@@ -12,12 +12,12 @@ import { Button } from "~/components/ui/button";
 import { ExternalLinkIcon } from "@radix-ui/react-icons";
 
 function deliveryAndTakeoutMessage(delivery: boolean, takeout: boolean) {
-  if(delivery && takeout) {
+  if (delivery && takeout) {
     return "Delivery and takeout are available.";
-  } else if(delivery) {
-    return "Delivery is available."
+  } else if (delivery) {
+    return "Delivery is available.";
   } else if (takeout) {
-    return "Takeout is available."
+    return "Takeout is available.";
   } else {
     return "";
   }
@@ -188,8 +188,10 @@ export default function Page({
             </>
           )}
           <p className="p-4">
-            {restaurant.name} makes it easy for calorie counters to track their
-            meals by having their nutrition facts publicly available. {deliveryAndTakeoutMessage(restaurant.delivery, restaurant.takeout)}
+            {restaurant.description} {restaurant.name} makes it easy for calorie
+            counters to track their meals by having their nutrition facts
+            publicly available.{" "}
+            {deliveryAndTakeoutMessage(restaurant.delivery, restaurant.takeout)}
           </p>
           <Separator />
           <div className="grid grid-cols-2 divide-x">

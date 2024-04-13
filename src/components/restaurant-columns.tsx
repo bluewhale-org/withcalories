@@ -14,6 +14,18 @@ export function getRestaurantColumns(
       accessorKey: "id",
     },
     {
+      accessorKey: "description",
+    },
+    {
+      accessorKey: "city",
+    },
+    {
+      accessorKey: "state",
+    },
+    {
+      accessorKey: "zip",
+    },
+    {
       accessorKey: "name",
       header: ({ column }) => {
         return (
@@ -32,12 +44,15 @@ export function getRestaurantColumns(
         );
       },
       cell: ({ row }) => (
-        <div>
+        <div className="group ml-2">
           {/*eslint-disable-next-line @typescript-eslint/restrict-template-expressions*/}
           <Link href={`${pathname}/${row.getValue("id")}`}>
-            <Button variant="link" size="sm">
+            <div className="font-bold group-hover:underline">
               {row.getValue("name")}
-            </Button>
+            </div>
+            <span className="text-muted-foreground">
+              {row.getValue("description")}
+            </span>
           </Link>
         </div>
       ),
@@ -47,7 +62,13 @@ export function getRestaurantColumns(
       header: () => {
         return <div>Address</div>;
       },
-      cell: ({ row }) => <div>{row.getValue("street_address")}</div>,
+      cell: ({ row }) => (
+        <div>
+          {row.getValue("street_address")}
+          <br />
+          {row.getValue("city")}, {row.getValue("state")} {row.getValue("zip")}
+        </div>
+      ),
     },
   ];
 }
