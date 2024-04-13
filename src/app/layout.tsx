@@ -8,6 +8,7 @@ import { FaCity } from "react-icons/fa";
 
 import "leaflet/dist/leaflet.css";
 import { Header } from "~/components/header";
+import PlausibleProvider from "next-plausible";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -28,6 +29,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <PlausibleProvider domain="withcalories.com" />
+      </head>
       <body className={`font-sans ${inter.variable}`}>
         <div className="flex flex-col p-8">
           <div className="container grid gap-6">
