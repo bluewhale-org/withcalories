@@ -89,15 +89,7 @@ export function RestaurantTable({ columns, data }: DataTableProps) {
           className="max-w-sm"
         />
         <div className="flex items-center gap-8">
-          <div className="flex items-center space-x-2">
-            <Switch id="open-now" />
-            <Label htmlFor="open-now">Open Now</Label>
-          </div>
-
-          <div className="flex items-center space-x-2">
-            <Switch id="has-delivery" />
-            <Label htmlFor="has-delivery">Has Delivery</Label>
-          </div>
+          {/* todo: add toggles */}
         </div>
       </div>
       <div className="rounded-md border">
