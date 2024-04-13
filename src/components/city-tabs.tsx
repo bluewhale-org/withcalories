@@ -5,9 +5,9 @@ import { LoadingSpinner } from "~/components/loading-spinner";
 import React, { useState } from "react";
 import { CityInfo } from "~/data/cities";
 import dynamic from "next/dynamic";
-import {getRestaurantColumns} from "~/components/restaurant-columns";
-import {RestaurantTable} from "~/components/restaurant-table";
-import {usePathname} from "next/navigation";
+import { getRestaurantColumns } from "~/components/restaurant-columns";
+import { RestaurantTable } from "~/components/restaurant-table";
+import { usePathname } from "next/navigation";
 
 const CityMap = dynamic(() => import("~/components/city-map"), {
   ssr: false,
@@ -37,7 +37,7 @@ export function CityTabs({ city }: { city: CityInfo }) {
         />
       </TabsContent>
       <TabsContent value="list">
-          <RestaurantTable columns={restaurantColumns} data={city.restaurants} />
+        <RestaurantTable columns={restaurantColumns} data={city.restaurants} />
       </TabsContent>
     </Tabs>
   );

@@ -11,15 +11,17 @@ import {
 import React from "react";
 import { TbSalad } from "react-icons/tb";
 import Link from "next/link";
-import {notFound, useParams, usePathname} from "next/navigation";
-import {CITY_SLUG_TO_INFO, CITY_SLUGS, CitySlug} from "~/data/cities";
+import { notFound, useParams, usePathname } from "next/navigation";
+import { CITY_SLUG_TO_INFO, CITY_SLUGS, CitySlug } from "~/data/cities";
 
 export function Header() {
   const { city: citySlugUntyped, restaurant: restaurantSlug } = useParams();
 
   const citySlug = citySlugUntyped as CitySlug;
   const city = citySlug ? CITY_SLUG_TO_INFO[citySlug] : undefined;
-  const restaurant = city ? city.restaurants.filter(r => r.id === restaurantSlug).slice(0,1)[0] : undefined;
+  const restaurant = city
+    ? city.restaurants.filter((r) => r.id === restaurantSlug).slice(0, 1)[0]
+    : undefined;
 
   const restaurantComponent = restaurant ? (
     <>

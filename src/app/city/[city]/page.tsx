@@ -10,7 +10,7 @@ import {
 } from "~/components/ui/card";
 import Link from "next/link";
 import { CityTabs } from "~/components/city-tabs";
-import {MealByMealCardDescription} from "~/components/mealbymeal-banner";
+import { MealByMealCardDescription } from "~/components/mealbymeal-banner";
 
 export async function generateMetadata({
   params,
