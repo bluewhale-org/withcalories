@@ -33,8 +33,8 @@ export default function RootLayout({
         <PlausibleProvider domain="withcalories.com" />
       </head>
       <body className={`font-sans ${inter.variable}`}>
-        <div className="flex flex-col p-8">
-          <div className="container grid gap-6">
+        <div className="flex flex-col p-8 px-4 md:px-8">
+          <div className="grid gap-6 md:container">
             <Header />
             <main className="grid gap-6">{children}</main>
             <footer className="rounded-lg bg-muted p-4 md:flex md:items-center md:justify-between">

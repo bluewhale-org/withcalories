@@ -78,7 +78,7 @@ export default function Page({
         <CardContent className="px-0 pb-0">
           {hasLink && (
             <>
-              <div className="flex gap-4 p-4">
+              <div className="flex flex-wrap gap-4 p-4">
                 {restaurant.website_url && (
                   <Link
                     href={restaurant.website_url}
@@ -201,7 +201,9 @@ export default function Page({
 
                     return (
                       <li key={before}>
-                        <strong>{before}</strong>: {after}
+                        <strong>{before}</strong>
+                        <br />
+                        {after}
                       </li>
                     );
                   })}
