@@ -1,9 +1,9 @@
 "use client";
 
-import { ColumnDef } from "@tanstack/react-table";
+import { type ColumnDef } from "@tanstack/react-table";
 import { Button } from "~/components/ui/button";
 import { CaretDownIcon, CaretUpIcon } from "@radix-ui/react-icons";
-import { Restaurant } from "~/data/restaurants";
+import { type Restaurant } from "~/data/restaurants";
 import Link from "next/link";
 
 export function getRestaurantColumns(
@@ -33,6 +33,7 @@ export function getRestaurantColumns(
       },
       cell: ({ row }) => (
         <div>
+          {/*eslint-disable-next-line @typescript-eslint/restrict-template-expressions*/}
           <Link href={`${pathname}/${row.getValue("id")}`}>
             <Button variant="link" size="sm">
               {row.getValue("name")}
@@ -43,7 +44,7 @@ export function getRestaurantColumns(
     },
     {
       accessorKey: "street_address",
-      header: ({ column }) => {
+      header: () => {
         return <div>Address</div>;
       },
       cell: ({ row }) => <div>{row.getValue("street_address")}</div>,

@@ -3,7 +3,7 @@
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "~/components/ui/tabs";
 import { LoadingSpinner } from "~/components/loading-spinner";
 import React, { useState } from "react";
-import { CityInfo } from "~/data/cities";
+import { type CityInfo } from "~/data/cities";
 import dynamic from "next/dynamic";
 import { getRestaurantColumns } from "~/components/restaurant-columns";
 import { RestaurantTable } from "~/components/restaurant-table";

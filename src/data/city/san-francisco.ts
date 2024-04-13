@@ -1,4 +1,4 @@
-import { Restaurant } from "~/data/restaurants";
+import { type Restaurant } from "~/data/restaurants";
 
 export const sanFrancisco: Restaurant[] = [
   {
@@ -25,10 +25,10 @@ export const sanFrancisco: Restaurant[] = [
       ["Thursday", "11 AM-10 PM"],
       ["Friday", "11 AM-10 PM"],
       ["Saturday", "11 AM-10 PM"],
-      ["Sunday", "11 AM-10 PM"]
+      ["Sunday", "11 AM-10 PM"],
     ],
     latitude: "37.776525",
-    longitude: "-122.4250028"
+    longitude: "-122.4250028",
   },
   {
     id: "souvla-531-divisadero-st",
@@ -54,10 +54,10 @@ export const sanFrancisco: Restaurant[] = [
       ["Thursday", "11 AM-10 PM"],
       ["Friday", "11 AM-10 PM"],
       ["Saturday", "11 AM-10 PM"],
-      ["Sunday", "11 AM-10 PM"]
+      ["Sunday", "11 AM-10 PM"],
     ],
     latitude: "37.7745168",
-    longitude: "-122.43793699999999"
+    longitude: "-122.43793699999999",
   },
   {
     id: "souvla-2272-chestnut-st",
@@ -83,10 +83,10 @@ export const sanFrancisco: Restaurant[] = [
       ["Thursday", "11 AM-10 PM"],
       ["Friday", "11 AM-10 PM"],
       ["Saturday", "11 AM-10 PM"],
-      ["Sunday", "11 AM-10 PM"]
+      ["Sunday", "11 AM-10 PM"],
     ],
     latitude: "37.8003688",
-    longitude: "-122.4408124"
+    longitude: "-122.4408124",
   },
   {
     id: "souvla-758-valencia-st",
@@ -112,10 +112,10 @@ export const sanFrancisco: Restaurant[] = [
       ["Thursday", "11 AM-10 PM"],
       ["Friday", "11 AM-10 PM"],
       ["Saturday", "11 AM-10 PM"],
-      ["Sunday", "11 AM-10 PM"]
+      ["Sunday", "11 AM-10 PM"],
     ],
     latitude: "37.760820",
-    longitude: "-122.421810"
+    longitude: "-122.421810",
   },
   {
     id: "souvla-2505-3rd-st",
@@ -129,7 +129,8 @@ export const sanFrancisco: Restaurant[] = [
     nutrition_url: "https://www.souvla.com/menu/nutritional-information/",
     takeout: true,
     delivery: true,
-    doordash_url: "https://www.doordash.com/store/souvla-san-francisco-23649179/",
+    doordash_url:
+      "https://www.doordash.com/store/souvla-san-francisco-23649179/",
     postmates_url: undefined,
     ubereats_url: undefined,
     grubhub_url: undefined,
@@ -141,9 +142,9 @@ export const sanFrancisco: Restaurant[] = [
       ["Thursday", "10 AM-9 PM"],
       ["Friday", "10 AM-9 PM"],
       ["Saturday", "10 AM-9 PM"],
-      ["Sunday", "10 AM-9 PM"]
+      ["Sunday", "10 AM-9 PM"],
     ],
     latitude: "37.757750",
-    longitude: "-122.388120"
-  }
+    longitude: "-122.388120",
+  },
 ];

@@ -2,9 +2,7 @@ import "~/styles/globals.css";
 
 import { Inter } from "next/font/google";
 import Link from "next/link";
-import { TbBrandGithub, TbSalad } from "react-icons/tb";
-import { CITY_SLUG_TO_INFO, CITY_SLUGS } from "~/data/cities";
-import { Card, CardTitle } from "~/components/ui/card";
+import { TbBrandGithub } from "react-icons/tb";
 import { Button } from "~/components/ui/button";
 import { FaCity } from "react-icons/fa";
 

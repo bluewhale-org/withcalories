@@ -2,15 +2,9 @@
 
 import * as React from "react";
 import {
-  CaretSortIcon,
-  ChevronDownIcon,
-  DotsHorizontalIcon,
-} from "@radix-ui/react-icons";
-import {
-  ColumnDef,
-  ColumnFiltersState,
-  SortingState,
-  VisibilityState,
+  type ColumnDef,
+  type ColumnFiltersState,
+  type SortingState,
   flexRender,
   getCoreRowModel,
   getFilteredRowModel,
@@ -20,16 +14,6 @@ import {
 } from "@tanstack/react-table";
 
 import { Button } from "~/components/ui/button";
-import { Checkbox } from "~/components/ui/checkbox";
-import {
-  DropdownMenu,
-  DropdownMenuCheckboxItem,
-  DropdownMenuContent,
-  DropdownMenuItem,
-  DropdownMenuLabel,
-  DropdownMenuSeparator,
-  DropdownMenuTrigger,
-} from "~/components/ui/dropdown-menu";
 import { Input } from "~/components/ui/input";
 import {
   Table,
@@ -39,9 +23,7 @@ import {
   TableHeader,
   TableRow,
 } from "~/components/ui/table";
-import { Restaurant } from "~/data/restaurants";
-import { Switch } from "~/components/ui/switch";
-import { Label } from "~/components/ui/label";
+import { type Restaurant } from "~/data/restaurants";
 
 interface DataTableProps {
   columns: ColumnDef<Restaurant>[];
@@ -88,9 +70,7 @@ export function RestaurantTable({ columns, data }: DataTableProps) {
           }
           className="max-w-sm"
         />
-        <div className="flex items-center gap-8">
-          {/* todo: add toggles */}
-        </div>
+        <div className="flex items-center gap-8">{/* todo: add toggles */}</div>
       </div>
       <div className="rounded-md border">
         <Table>

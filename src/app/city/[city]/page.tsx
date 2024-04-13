@@ -1,14 +1,8 @@
 import { type Metadata } from "next";
 import React from "react";
 import { notFound } from "next/navigation";
-import { CITY_SLUG_TO_INFO, CITY_SLUGS, CitySlug } from "~/data/cities";
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardTitle,
-} from "~/components/ui/card";
-import Link from "next/link";
+import { CITY_SLUG_TO_INFO, CITY_SLUGS, type CitySlug } from "~/data/cities";
+import { Card, CardContent, CardTitle } from "~/components/ui/card";
 import { CityTabs } from "~/components/city-tabs";
 import { MealByMealCardDescription } from "~/components/mealbymeal-banner";
 

@@ -1,15 +1,15 @@
 "use client";
 
 import { MapContainer } from "react-leaflet";
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import L from "leaflet";
 import { MapLoader } from "~/components/map-loader";
-import { Map as LeafletMap, MapOptions } from "leaflet";
-import { Restaurant } from "~/data/restaurants";
+import { type Map as LeafletMap, type MapOptions } from "leaflet";
+import { type Restaurant } from "~/data/restaurants";
 import { RestaurantMarkers } from "~/components/restaurant-markers";
-import { Skeleton } from "~/components/ui/skeleton";
 
 const setupIcons = () => {
+  // @ts-expect-error: weird leaflet type problem
   delete L.Icon.Default.prototype._getIconUrl;
 
   L.Icon.Default.mergeOptions({

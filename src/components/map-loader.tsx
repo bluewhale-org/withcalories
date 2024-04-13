@@ -1,3 +1,4 @@
+/* eslint-disable */
 "use client";
 
 import { useMap, useMapEvents } from "react-leaflet";
@@ -17,7 +18,9 @@ export function MapLoader() {
   // useful for setting the location for a new city
   useMapEvents({
     dragend: (e) => {
+      /* eslint-disable-next-line @typescript-eslint/no-unsafe-call @typescript-eslint/no-unsafe-member-access */
       console.log("map center", e.target.getCenter());
+      /* eslint-disable-next-line @typescript-eslint/no-unsafe-call @typescript-eslint/no-unsafe-member-access */
       console.log("map bounds", e.target.getBounds());
     },
   });

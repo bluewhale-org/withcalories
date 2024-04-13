@@ -1,8 +1,8 @@
-import React, { ReactElement } from "react";
+import React, { type ReactElement } from "react";
 import { GiSuspensionBridge } from "react-icons/gi";
 import { sanFrancisco } from "~/data/city/san-francisco";
-import { Restaurant } from "~/data/restaurants";
-import { Map as LeafletMap, MapOptions } from "leaflet";
+import { type Restaurant } from "~/data/restaurants";
+import { type Map as LeafletMap, type MapOptions } from "leaflet";
 
 export interface CityInfo {
   name: string;

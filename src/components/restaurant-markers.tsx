@@ -1,6 +1,6 @@
 "use client";
 
-import { Restaurant } from "~/data/restaurants";
+import { type Restaurant } from "~/data/restaurants";
 import { Marker, Popup } from "react-leaflet";
 import { usePathname } from "next/navigation";
 import Link from "next/link";
@@ -10,7 +10,7 @@ export function RestaurantMarkers(props: { restaurants: Restaurant[] }) {
 
   return (
     <>
-      {props.restaurants.map((r, i) => {
+      {props.restaurants.map((r) => {
         return (
           <Marker
             key={JSON.stringify(r) + "_marker"}

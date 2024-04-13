@@ -10,9 +10,8 @@ import {
 } from "~/components/ui/breadcrumb";
 import React from "react";
 import { TbSalad } from "react-icons/tb";
-import Link from "next/link";
-import { notFound, useParams, usePathname } from "next/navigation";
-import { CITY_SLUG_TO_INFO, CITY_SLUGS, CitySlug } from "~/data/cities";
+import { useParams } from "next/navigation";
+import { CITY_SLUG_TO_INFO, type CitySlug } from "~/data/cities";
 
 export function Header() {
   const { city: citySlugUntyped, restaurant: restaurantSlug } = useParams();

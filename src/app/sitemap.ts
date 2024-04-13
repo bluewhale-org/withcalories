@@ -1,4 +1,4 @@
-import { MetadataRoute } from "next";
+import { type MetadataRoute } from "next";
 import { CITY_SLUG_TO_INFO } from "~/data/cities";
 import slugify from "slugify";
 
