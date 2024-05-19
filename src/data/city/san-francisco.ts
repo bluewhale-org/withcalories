@@ -157,4 +157,3749 @@ export const sanFrancisco: Restaurant[] = [
     latitude: "37.757750",
     longitude: "-122.388120",
   },
+  {
+    id: "amicis-east-coast-pizzeria-2200-lombard-st",
+    name: "Amici's East Coast Pizzeria",
+    description:
+      "Casual local chain with brick-oven, NYC-style pizzas & pastas, plus gluten-free options.",
+    street_address: "2200 Lombard St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94123",
+    website_url: "https://www.amicis.com/sf-marina",
+    menu_url:
+      "https://static1.squarespace.com/static/5a4fc9a0a803bbc5dbd3a234/t/634f738ac1d7123d9ee29da7/1666151306293/Amici%27s+Brick+%26+Mortar+Menu+-+2022+.pdf",
+    nutrition_url: undefined,
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/amici's-east-coast-pizzeria-san-francisco-59932/",
+    postmates_url:
+      "https://postmates.com/brand-city/san-francisco-ca/amicis-east-coast-pizzeria",
+    ubereats_url:
+      "https://www.ubereats.com/neighborhood/the-castro-san-francisco-ca",
+    grubhub_url:
+      "https://www.grubhub.com/food/amicis_east_coast_pizzeria/ca-san_francisco",
+    other_delivery_url:
+      "https://www.seamless.com/menu/amicis-east-coast-pizzeria-2200-lombard-st-san-francisco/9544",
+    hours: [
+      ["Monday", "11:30 AM–10 PM"],
+      ["Tuesday", "11:30 AM–10 PM"],
+      ["Wednesday", "11:30 AM–10 PM"],
+      ["Thursday", "11:30 AM–10 PM"],
+      ["Friday", "11:30 AM–11 PM"],
+      ["Saturday", "11:30 AM–11 PM"],
+      ["Sunday", "11:30 AM–10 PM"],
+    ],
+    latitude: "37.7998056",
+    longitude: "-122.4380189",
+  },
+  {
+    id: "amicis-east-coast-pizzeria-60-morris-st",
+    name: "Amici's East Coast Pizzeria",
+    description:
+      "Casual local chain with brick-oven, NYC-style pizzas & pastas, plus gluten-free options.",
+    street_address: "60 Morris St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94107",
+    website_url: "https://www.amicis.com/sf-soma",
+    menu_url: "https://www.amicis.com/menu-sf-soma",
+    nutrition_url: undefined,
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/en-US/store/amici's-east-coast-pizzeria-san-francisco-59931/",
+    postmates_url:
+      "https://postmates.com/brand-city/san-francisco-ca/amicis-east-coast-pizzeria",
+    ubereats_url: undefined,
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/amicis-east-coast-pizzeria-60-morris-st-san-francisco/6569",
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "11 AM–10 PM"],
+      ["Tuesday", "11 AM–10 PM"],
+      ["Wednesday", "11 AM–10 PM"],
+      ["Thursday", "11 AM–10 PM"],
+      ["Friday", "11 AM–10 PM"],
+      ["Saturday", "11 AM–10 PM"],
+      ["Sunday", "11 AM–10 PM"],
+    ],
+    latitude: "37.7766255",
+    longitude: "-122.4025686",
+  },
+  {
+    id: "applebees-grill-bar-2770-taylor-st",
+    name: "Applebee's Grill + Bar",
+    description:
+      "Full-service chain bar & grill providing hearty American eats in an informal setting.",
+    street_address: "2770 Taylor St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94133",
+    website_url:
+      "https://restaurants.applebees.com/en-us/ca/san-francisco/2770-taylor-st-77043",
+    menu_url: "https://www.applebees.com/en/menu",
+    nutrition_url: "https://www.applebees.com/en/nutrition/info",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/applebee's-grill-&-bar-san-francisco-309561/",
+    postmates_url:
+      "https://postmates.com/store/applebees-fishermans-wharf/tPNYpZpdS82-9HnyJhcLNA",
+    ubereats_url:
+      "https://www.ubereats.com/store/applebees-fishermans-wharf/tPNYpZpdS82-9HnyJhcLNA",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/applebees-2770-taylor-st-san-francisco/1032930",
+    other_delivery_url:
+      "https://www.seamless.com/menu/applebees-2770-taylor-st-san-francisco/1032930",
+    hours: [
+      ["Monday", "11 AM–12 AM"],
+      ["Tuesday", "11 AM–12 AM"],
+      ["Wednesday", "11 AM–12 AM"],
+      ["Thursday", "11 AM–12 AM"],
+      ["Friday", "11 AM–1 AM"],
+      ["Saturday", "11 AM–1 AM"],
+      ["Sunday", "11 AM–12 AM"],
+    ],
+    latitude: "37.80804",
+    longitude: "-122.4156546",
+  },
+  {
+    id: "asian-box-200-larkin-st",
+    name: "Asian Box",
+    description:
+      "Counter-serve niche for sustainable Asian street eats, made to order with customizable options.",
+    street_address: "200 Larkin St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94102",
+    website_url: "https://www.asianbox.com/",
+    menu_url:
+      "https://media-cdn.getbento.com/accounts/f8a6e174ba49c165bc7109a4cc54b225/media/zW57QFE3R7qodlLf0059_combomenu.2023.pdf",
+    nutrition_url:
+      "https://media-cdn.getbento.com/accounts/f8a6e174ba49c165bc7109a4cc54b225/media/2UAxJKArTy60NoXcky8B_AB%20-%20nutritional%20chart%202021.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/asian-box-san-francisco-24926952/",
+    postmates_url:
+      "https://postmates.com/store/asian-box-larkin-st/ZqJhhhtYVFOaQvA5uh8Tmg",
+    ubereats_url:
+      "https://www.ubereats.com/store/asian-box-larkin-st/ZqJhhhtYVFOaQvA5uh8Tmg",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/asian-box-200-larkin-st-san-francisco/6396264",
+    other_delivery_url:
+      "https://www.seamless.com/menu/asian-box-200-larkin-st-san-francisco/6396264",
+    hours: [
+      ["Monday", "10 AM–5 PM"],
+      ["Tuesday", "Closed"],
+      ["Wednesday", "Closed"],
+      ["Thursday", "1–6 PM"],
+      ["Friday", "10 AM–5 PM"],
+      ["Saturday", "10 AM–5 PM"],
+      ["Sunday", "10 AM–5 PM"],
+    ],
+    latitude: "37.7801637",
+    longitude: "-122.4161985",
+  },
+  {
+    id: "auntie-annes-865-market-st-suite-201",
+    name: "Auntie Anne's",
+    description:
+      "Global chain of counters dispensing sweet & savory soft pretzels with a variety of toppings & dips.",
+    street_address: "865 Market St Suite 201",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94103",
+    website_url:
+      "https://locations.auntieannes.com/ca/san-francisco/865-market-street",
+    menu_url: "https://www.auntieannes.com/menu",
+    nutrition_url:
+      "https://www.auntieannes.com/-/media/auntie-annes/files/0101_1050806890_c2_nutritionalguide_highres_rev.pdf?v=1&d=20230629T054438Z",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/auntie-anne's-san-francisco-2699223/",
+    postmates_url:
+      "https://postmates.com/store/auntie-annes-865-market-st/f4mEBMA8XvqPV9br6OIVkQ",
+    ubereats_url:
+      "https://www.ubereats.com/store/auntie-annes-865-market-st/f4mEBMA8XvqPV9br6OIVkQ",
+    grubhub_url: undefined,
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "11 AM–7 PM"],
+      ["Tuesday", "11 AM–7 PM"],
+      ["Wednesday", "11 AM–7 PM"],
+      ["Thursday", "11 AM–7 PM"],
+      ["Friday", "10 AM–9 PM"],
+      ["Saturday", "10 AM–9 PM"],
+      ["Sunday", "11 AM–7 PM"],
+    ],
+    latitude: "37.582368",
+    longitude: "-122.5124719",
+  },
+  {
+    id: "bens-fast-food-60-morris-st",
+    name: "Ben's Fast Food",
+    description:
+      "Counter-serve outlet whipping up thoughtfully sourced meat or veggie bowls for take-out and delivery.",
+    street_address: "60 Morris St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94107",
+    website_url: "https://bensfastfood.com/",
+    menu_url: "https://bensfastfood.com/menu",
+    nutrition_url: "https://bensfastfood.com/nutrition",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/ben%27s-fast-food-san-francisco-951481/",
+    postmates_url: undefined,
+    ubereats_url:
+      "https://www.ubereats.com/store/bens-fast-food/v0-qTRh0T5CpRQaihP1aug",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/bens-fast-food-60-morris-st-san-francisco/2116293",
+    other_delivery_url:
+      "https://www.seamless.com/menu/bens-fast-food-60-morris-st-san-francisco/2116293",
+    hours: [
+      ["Monday", "9:30 AM–1 AM"],
+      ["Tuesday", "9:30 AM–1 AM"],
+      ["Wednesday", "9:30 AM–1 AM"],
+      ["Thursday", "9:30 AM–1 AM"],
+      ["Friday", "9:30 AM–1 AM"],
+      ["Saturday", "10:30 AM–1 AM"],
+      ["Sunday", "10:30 AM–1 AM"],
+    ],
+    latitude: "37.7767348",
+    longitude: "-122.4024696",
+  },
+  {
+    id: "benihana-1737-post-st",
+    name: "Benihana",
+    description:
+      "Hibachi chain serving Japanese dishes grilled tableside by theatrical chefs.",
+    street_address: "1737 Post St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94115",
+    website_url: "https://www.benihana.com/locations/sanfrancisco-ca-sf/",
+    menu_url: "https://www.benihana.com/menu/",
+    nutrition_url:
+      "https://storage.googleapis.com/benihana-2020-238473673204-wp-data/wp-media/c23bdcff-benihana-catering-nutritional-info-2.2024_d.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/en-CA/store/benihana-san-francisco-232430/",
+    postmates_url: "https://postmates.com/brand-city/san-francisco-ca/benihana",
+    ubereats_url:
+      "https://www.ubereats.com/store/benihana-1737-post-street/CBBez0A3QcqHNqEgqslrYg",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/benihana-san-francisco-1737-post-st-san-francisco/464464",
+    other_delivery_url:
+      "https://www.seamless.com/menu/benihana-san-francisco-1737-post-st-san-francisco/464464",
+    hours: [
+      ["Monday", "11 AM–10 PM"],
+      ["Tuesday", "11 AM–10 PM"],
+      ["Wednesday", "11 AM–10 PM"],
+      ["Thursday", "11 AM–10 PM"],
+      ["Friday", "11 AM–11 PM"],
+      ["Saturday", "11 AM–11 PM"],
+      ["Sunday", "11 AM–10 PM"],
+    ],
+    latitude: "37.7853051",
+    longitude: "-122.4306796",
+  },
+  {
+    id: "bonchon-metreon-135th-4th-st",
+    name: "Bonchon Metreon",
+    description:
+      "Casual chain serving cooked-to-order Korean fried chicken, plus other traditional eats.",
+    street_address: "135th 4th St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94103",
+    website_url:
+      "https://locations.bonchon.com/ll/US/CA/San-Francisco/135th-4th-Stt",
+    menu_url: "https://bonchon.com/menu",
+    nutrition_url: "https://bonchon.com/downloads/nutritional-information",
+    takeout: true,
+    delivery: true,
+    doordash_url: undefined,
+    postmates_url:
+      "https://postmates.com/store/bonchon-chicken-135-4th-st/HqAIomYjRny74W4fQl3csg",
+    ubereats_url:
+      "https://www.ubereats.com/store/bonchon-chicken-135-4th-st/HqAIomYjRny74W4fQl3csg",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/bonchon-135-4th-st-fc-10-san-francisco/2652437",
+    other_delivery_url:
+      "https://www.seamless.com/menu/bonchon-135-4th-st-fc-10-san-francisco/2652437",
+    hours: [
+      ["Monday", "11 AM–7:30 PM"],
+      ["Tuesday", "11 AM–7:30 PM"],
+      ["Wednesday", "11 AM–7:30 PM"],
+      ["Thursday", "11 AM–7:30 PM"],
+      ["Friday", "11 AM–8:30 PM"],
+      ["Saturday", "11 AM–8:30 PM"],
+      ["Sunday", "11 AM–7:30 PM"],
+    ],
+    latitude: "37.7842536",
+    longitude: "-122.4035065",
+  },
+  {
+    id: "boudin-bakery-cafe-399-10th-ave",
+    name: "Boudin Bakery Cafe",
+    description:
+      "Famed for sourdough since 1849, this California bakery/cafe chain also offers light American bites.",
+    street_address: "399 10th Ave",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94118",
+    website_url: "https://boudinbakery.com/location/boudin-bakery-10th-geary",
+    menu_url: "https://boudinbakery.com/menu/",
+    nutrition_url:
+      "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/boudin-bakery-san-francisco-390885/",
+    postmates_url:
+      "https://postmates.com/store/boudin-bakery-10th-ave/WZb59x0NQZiS6KUo7lr7Zg",
+    ubereats_url:
+      "https://www.ubereats.com/store/boudin-bakery-10th-ave/WZb59x0NQZiS6KUo7lr7Zg",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/boudin-bakery-399-10th-ave-san-francisco/1061459",
+    other_delivery_url:
+      "https://www.seamless.com/menu/boudin-bakery-399-10th-ave-san-francisco/1061459",
+    hours: [
+      ["Monday", "6 AM–8 PM"],
+      ["Tuesday", "6 AM–8 PM"],
+      ["Wednesday", "6 AM–8 PM"],
+      ["Thursday", "6 AM–8 PM"],
+      ["Friday", "6 AM–8 PM"],
+      ["Saturday", "6 AM–8 PM"],
+      ["Sunday", "6 AM–8 PM"],
+    ],
+    latitude: "37.7811316",
+    longitude: "-122.4687938",
+  },
+  {
+    id: "boudin-bakery-cafe-4-embarcadero-ctr",
+    name: "Boudin Bakery Cafe",
+    description:
+      "Famed for sourdough since 1849, this California bakery/cafe chain also offers light American bites.",
+    street_address: "4 Embarcadero Ctr",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94111",
+    website_url: "https://boudinbakery.com/location/embarcadero-4-bakery-cafe/",
+    menu_url: "https://boudinbakery.com/menu/",
+    nutrition_url:
+      "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/boudin-bakery-san-francisco-364824/",
+    postmates_url:
+      "https://postmates.com/store/boudin-embarcadero/pHlZ0I0SRQ2cDPcFGsBNHQ",
+    ubereats_url:
+      "https://www.ubereats.com/store/boudin-embarcadero/pHlZ0I0SRQ2cDPcFGsBNHQ",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/boudin-bakery--cafe-4-embarcadero-ctr-san-francisco/1061480",
+    other_delivery_url:
+      "https://www.seamless.com/menu/boudin-bakery--cafe-4-embarcadero-ctr-san-francisco/1061480",
+    hours: [
+      ["Monday", "8 AM–4 PM"],
+      ["Tuesday", "8 AM–4 PM"],
+      ["Wednesday", "8 AM–4 PM"],
+      ["Thursday", "8 AM–4 PM"],
+      ["Friday", "8 AM–4 PM"],
+      ["Saturday", "Closed"],
+      ["Sunday", "Closed"],
+    ],
+    latitude: "37.7949649",
+    longitude: "-122.3958644",
+  },
+  {
+    id: "boudin-bakery-cafe-3251-20th-ave",
+    name: "Boudin Bakery Cafe",
+    description:
+      "Famed for sourdough since 1849, this California bakery/cafe chain also offers light American bites.",
+    street_address: "3251 20th Ave",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94132",
+    website_url: "https://order.boudinbakery.com/menu/stonestown-bakery-cafe",
+    menu_url: "https://boudinbakery.com/menu/",
+    nutrition_url:
+      "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/boudin-bakery-san-francisco-340403/",
+    postmates_url:
+      "https://postmates.com/store/boudin-stonestown/52yMOzRtSiOoD-41tA53Vg",
+    ubereats_url:
+      "https://www.ubereats.com/store/boudin-stonestown/52yMOzRtSiOoD-41tA53Vg",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/boudin-bakery--cafe-3251-20th-ave-san-francisco/1064681",
+    other_delivery_url:
+      "https://www.seamless.com/menu/boudin-bakery--cafe-3251-20th-ave-san-francisco/1064681",
+    hours: [
+      ["Monday", "11 AM–8 PM"],
+      ["Tuesday", "11 AM–8 PM"],
+      ["Wednesday", "11 AM–8 PM"],
+      ["Thursday", "11 AM–8 PM"],
+      ["Friday", "11 AM–9 PM"],
+      ["Saturday", "11 AM–9 PM"],
+      ["Sunday", "11 AM–7 PM"],
+    ],
+    latitude: "37.728669",
+    longitude: "-122.476886",
+  },
+  {
+    id: "boudin-bakery-cafe-pier-39-beach-st-space-5-q",
+    name: "Boudin Bakery Cafe",
+    description:
+      "Famed for sourdough since 1849, this California bakery/cafe chain also offers light American bites.",
+    street_address: "Pier 39, Beach St Space 5-Q",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94133",
+    website_url: "https://boudinbakery.com/location/boudin-bakery-pier-39/",
+    menu_url: "https://boudinbakery.com/menu/",
+    nutrition_url:
+      "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url: "https://www.doordash.com/business/boudin-bakery-2732/",
+    postmates_url: undefined,
+    ubereats_url: undefined,
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/boudin-pier-39-pier-39-ste-5-q-san-francisco/1061438",
+    other_delivery_url:
+      "https://www.seamless.com/menu/boudin-pier-39-pier-39-ste-5-q-san-francisco/1061438",
+    hours: [
+      ["Monday", "9:30 AM–8 PM"],
+      ["Tuesday", "9:30 AM–8 PM"],
+      ["Wednesday", "9:30 AM–8 PM"],
+      ["Thursday", "9:30 AM–8 PM"],
+      ["Friday", "9:30 AM–9 PM"],
+      ["Saturday", "9:30 AM–9 PM"],
+      ["Sunday", "9:30 AM–8 PM"],
+    ],
+    latitude: "37.8088086",
+    longitude: "-122.409821",
+  },
+  {
+    id: "burger-king-1690-valencia-st",
+    name: "Burger King",
+    description:
+      "Well-known fast-food chain serving grilled burgers, fries & shakes.",
+    street_address: "1690 Valencia St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94110",
+    website_url: "https://www.bk.com/",
+    menu_url: "https://www.bk.com/menu",
+    nutrition_url: "https://www.bk.com/nutrition-explorer",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/burger-king-san-francisco-2836687/",
+    postmates_url:
+      "https://postmates.com/brand-city/san-francisco-ca/burger-king",
+    ubereats_url:
+      "https://www.ubereats.com/store/burger-king-1690-valencia-street/RR3hP6tVTuKnO-dO-Xypsg",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/burger-king-1690-valencia-street-san-francisco/3109630",
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "6 AM–9:30 PM"],
+      ["Tuesday", "6 AM–9:30 PM"],
+      ["Wednesday", "6 AM–9:30 PM"],
+      ["Thursday", "6 AM–9:30 PM"],
+      ["Friday", "6 AM–9:30 PM"],
+      ["Saturday", "6 AM–9:30 PM"],
+      ["Sunday", "6 AM–9:30 PM"],
+    ],
+    latitude: "37.745639",
+    longitude: "-122.4202528",
+  },
+  {
+    id: "burger-king-3900-geary-blvd",
+    name: "Burger King",
+    description:
+      "Well-known fast-food chain serving grilled burgers, fries & shakes.",
+    street_address: "3900 Geary Blvd",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94118",
+    website_url: "https://burgerking.com/store-locator/store/restaurant_5271",
+    menu_url: "https://www.bk.com/menu",
+    nutrition_url: "https://www.bk.com/nutrition-explorer",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/en-CA/en-CA/store/burger-king-san-francisco-1473427/",
+    postmates_url:
+      "https://postmates.com/brand-city/san-francisco-ca/burger-king",
+    ubereats_url:
+      "https://www.ubereats.com/store/burger-king-3900-geary-boulevard/YoVTMu2BQvui9CC1WC2pAQ",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/burger-king-3900-geary-blvd-san-francisco/2551337/",
+    other_delivery_url:
+      "https://www.seamless.com/menu/burger-king-3900-geary-blvd-san-francisco/2551337",
+    hours: [
+      ["Monday", "5 AM–4 AM"],
+      ["Tuesday", "5 AM–4 AM"],
+      ["Wednesday", "5 AM–4 AM"],
+      ["Thursday", "5 AM–4 AM"],
+      ["Friday", "5 AM–4 AM"],
+      ["Saturday", "5 AM–4 AM"],
+      ["Sunday", "5 AM–4 AM"],
+    ],
+    latitude: "37.781356",
+    longitude: "-122.4612407",
+  },
+  {
+    id: "burger-king-245-bayshore-blvd",
+    name: "Burger King",
+    description:
+      "Well-known fast-food chain serving grilled burgers, fries & shakes.",
+    street_address: "245 Bayshore Blvd",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94124",
+    website_url: "https://burgerking.com/store-locator/store/restaurant_3278",
+    menu_url: "https://www.bk.com/menu",
+    nutrition_url: "https://www.bk.com/nutrition-explorer",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/en-CA/store/burger-king-san-francisco-52962/",
+    postmates_url:
+      "https://postmates.com/brand-city/san-francisco-ca/burger-king",
+    ubereats_url:
+      "https://www.ubereats.com/store/burger-king-245-bayshore-blvd/iXtAZwynRoumOY5IL_Cvzg",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/burger-king-245-bayshore-blvd-san-francisco/1037883",
+    hours: [
+      ["Monday", "5:30 AM–2 AM"],
+      ["Tuesday", "5:30 AM–2 AM"],
+      ["Wednesday", "5:30 AM–2 AM"],
+      ["Thursday", "5:30 AM–2 AM"],
+      ["Friday", "5:30 AM–2 AM"],
+      ["Saturday", "5:30 AM–2 AM"],
+      ["Sunday", "5:30 AM–2 AM"],
+    ],
+    latitude: "37.7441502",
+    longitude: "-122.4040275",
+  },
+  {
+    id: "california-pizza-kitchen-53-3rd-st",
+    name: "California Pizza Kitchen",
+    description:
+      "Chain eatery serving up inventive pizzas, plus pastas & salads in a modern setting.",
+    street_address: "53 3rd St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94103",
+    website_url: "https://www.cpk.com/",
+    menu_url:
+      "https://cdn.sanity.io/files/91ree6di/production/58ca7f0e23856c6043d679a9e3cd82b54af62f4b.pdf",
+    nutrition_url: "https://cpk.mymenuhd.com/MyMenu/Nutrition",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/california-pizza-kitchen-san-francisco-3835/",
+    postmates_url:
+      "https://postmates.com/store/california-pizza-kitchen-53-third-street/FZcDzr6URzO9oA3bTU0-Cg",
+    ubereats_url:
+      "https://www.ubereats.com/brand-city/san-francisco-ca/california-pizza-kitchen",
+    grubhub_url:
+      "https://www.grubhub.com/food/california_pizza_kitchen/ca-san_francisco",
+    hours: [
+      ["Monday", "11 AM–9 PM"],
+      ["Tuesday", "11 AM–9 PM"],
+      ["Wednesday", "11 AM–9 PM"],
+      ["Thursday", "11 AM–9 PM"],
+      ["Friday", "11 AM–10 PM"],
+      ["Saturday", "11 AM–10 PM"],
+      ["Sunday", "11 AM–9 PM"],
+    ],
+    latitude: "37.78666208",
+    longitude: "-122.4032185",
+  },
+  {
+    id: "carls-jr-1-hallidie-plaza",
+    name: "Carl's Jr.",
+    description:
+      "Fast-food chain known for its variety of piled-high burgers & meal combos, plus shakes.",
+    street_address: "1 Hallidie Plaza",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94102",
+    website_url:
+      "https://locations.carlsjr.com/ca/san-francisco/1-hallidie-plaza/",
+    menu_url: "https://www.carlsjr.com/full-menu",
+    nutrition_url:
+      "https://www.carlsjr.com/getmedia/e33238d0-e38f-4464-88b2-9becde9cac71/usnutritionvaluescarlsjr_1.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/carl's-jr.-san-francisco-797587/",
+    postmates_url:
+      "https://postmates.com/store/carls-jr-1-hallidie-plaza/khX8d4BcQDC6Z3umRZOMkg",
+    ubereats_url:
+      "https://www.ubereats.com/store/carls-jr-1-hallidie-plaza/khX8d4BcQDC6Z3umRZOMkg",
+    grubhub_url: "https://www.grubhub.com/r/w/1700962/restaurant/1700962",
+    hours: [
+      ["Monday", "Open 24 hours"],
+      ["Tuesday", "Open 24 hours"],
+      ["Wednesday", "Open 24 hours"],
+      ["Thursday", "Open 24 hours"],
+      ["Friday", "Open 24 hours"],
+      ["Saturday", "Open 24 hours"],
+      ["Sunday", "Open 24 hours"],
+    ],
+    latitude: "37.72156603",
+    longitude: "-123.2167912",
+  },
+  {
+    id: "charleys-cheesesteaks-845-market-st",
+    name: "Charleys Cheesesteaks",
+    description:
+      "Counter-service chain offering a range of Philly-style cheesesteaks, loaded fries & lemonades.",
+    street_address: "845 Market St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94103",
+    website_url: "https://www.charleys.com/",
+    menu_url: "https://www.charleys.com/menu/",
+    nutrition_url:
+      "https://www.charleys.com/wp-content/uploads/2023/09/CPS_NutritionGuide_091823_slp.pdf",
+    takeout: true,
+    delivery: true,
+    postmates_url:
+      "https://postmates.com/store/charleys-cheesesteaks-san-francisco-centre/h9yzs3v6TE-F24Qg094kGQ",
+    ubereats_url:
+      "https://www.ubereats.com/store/charleys-cheesesteaks-san-francisco-centre/h9yzs3v6TE-F24Qg094kGQ",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/charleys-cheesesteaks-865-market-st-san-francisco/736589",
+    other_delivery_url:
+      "https://www.seamless.com/menu/charleys-cheesesteaks-865-market-st-san-francisco/736589",
+    hours: [
+      ["Monday", "10 AM–8 PM"],
+      ["Tuesday", "10 AM–8 PM"],
+      ["Wednesday", "10 AM–8 PM"],
+      ["Thursday", "10 AM–8 PM"],
+      ["Friday", "10 AM–8 PM"],
+      ["Saturday", "10 AM–8 PM"],
+      ["Sunday", "11 AM–6 PM"],
+    ],
+    latitude: "37.7844344",
+    longitude: "-122.4058316",
+  },
+  {
+    id: "chipotle-mexican-grill-211-sutter-st",
+    name: "Chipotle Mexican Grill",
+    description:
+      "Fast-food chain offering Mexican fare, including design-your-own burritos, tacos & bowls.",
+    street_address: "211 Sutter St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94104",
+    website_url:
+      "https://locations.chipotle.com/ca/san-francisco/211-sutter-st",
+    menu_url: "https://www.chipotle.com/home#menu",
+    nutrition_url:
+      "https://www.chipotle.com/nutrition-calculator?restaurant=1857",
+    takeout: true,
+    delivery: false,
+    hours: [
+      ["Monday", "10:45 AM–10 PM"],
+      ["Tuesday", "10:45 AM–10 PM"],
+      ["Wednesday", "10:45 AM–10 PM"],
+      ["Thursday", "10:45 AM–10 PM"],
+      ["Friday", "10:45 AM–10 PM"],
+      ["Saturday", "10:45 AM–8 PM"],
+      ["Sunday", "10:45 AM–8 PM"],
+    ],
+    latitude: "37.7896709",
+    longitude: "-122.4039997",
+  },
+  {
+    id: "chipotle-mexican-grill-525-market-st",
+    name: "Chipotle Mexican Grill",
+    description:
+      "Fast-food chain offering Mexican fare, including design-your-own burritos, tacos & bowls.",
+    street_address: "525 Market St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94105",
+    website_url: "https://www.chipotle.com/",
+    menu_url: "https://www.chipotle.com/#menu",
+    nutrition_url: "https://www.chipotle.com/nutrition-calculator",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/chipotle-mexican-grill-san-francisco-269681/",
+    postmates_url:
+      "https://postmates.com/store/chipotle-mexican-grill-525-market-street/1Bo3snxNROezeFh3r4pz8g",
+    ubereats_url:
+      "https://www.ubereats.com/store/chipotle-mexican-grill-525-market-street/1Bo3snxNROezeFh3r4pz8g",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/chipotle-525-market-st-san-francisco/2125566",
+    other_delivery_url:
+      "https://www.seamless.com/menu/chipotle-525-market-st-san-francisco/2125566",
+    hours: [
+      ["Monday", "10 AM–7 PM"],
+      ["Tuesday", "10 AM–7 PM"],
+      ["Wednesday", "10 AM–7 PM"],
+      ["Thursday", "10 AM–7 PM"],
+      ["Friday", "10 AM–7 PM"],
+      ["Saturday", "Closed"],
+      ["Sunday", "Closed"],
+    ],
+    latitude: "37.7904393",
+    longitude: "-122.3994417",
+  },
+  {
+    id: "chipotle-mexican-grill-400-howard-st-ste-110",
+    name: "Chipotle Mexican Grill",
+    description:
+      "Fast-food chain offering Mexican fare, including design-your-own burritos, tacos & bowls.",
+    street_address: "400 Howard St Ste 110",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94105",
+    website_url:
+      "https://locations.chipotle.com/ca/san-francisco/400-howard-st",
+    menu_url: "https://www.chipotle.com/#menu",
+    nutrition_url: "https://www.chipotle.com/nutrition-calculator",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/chipotle-mexican-grill-san-francisco-269584/",
+    postmates_url:
+      "https://postmates.com/store/chipotle-mexican-grill-400-howard-st-ste-110/69YonUNWTyO2Nd_zX3cXxQ",
+    ubereats_url:
+      "https://www.ubereats.com/store/chipotle-mexican-grill-400-howard-st-ste-110/69YonUNWTyO2Nd_zX3cXxQ",
+    grubhub_url:
+      "https://www.grubhub.com/food/chipotle_mexican_grill/ca-san_francisco",
+    hours: [
+      ["Monday", "10 AM–8 PM"],
+      ["Tuesday", "10 AM–8 PM"],
+      ["Wednesday", "10 AM–8 PM"],
+      ["Thursday", "10 AM–8 PM"],
+      ["Friday", "10 AM–8 PM"],
+      ["Saturday", "10 AM–8 PM"],
+      ["Sunday", "Closed"],
+    ],
+    latitude: "37.7889155",
+    longitude: "-122.3960781",
+  },
+  {
+    id: "chipotle-mexican-grill-50-california-st",
+    name: "Chipotle Mexican Grill",
+    description:
+      "Fast-food chain offering Mexican fare, including design-your-own burritos, tacos & bowls.",
+    street_address: "50 California St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94111",
+    website_url:
+      "https://locations.chipotle.com/ca/san-francisco/50-california-st",
+    menu_url: "https://www.chipotle.com/#menu",
+    nutrition_url: "https://www.chipotle.com/nutrition-calculator",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/chipotle-mexican-grill-san-francisco-270561/",
+    postmates_url:
+      "https://postmates.com/store/chipotle-mexican-grill-50-california-st/8Cr9K9fzS_u6MM1_cX1OIQ",
+    ubereats_url:
+      "https://www.ubereats.com/store/chipotle-mexican-grill-50-california-st/8Cr9K9fzS_u6MM1_cX1OIQ",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/chipotle-50-california-st-san-francisco/2124556",
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "10:45 AM–9 PM"],
+      ["Tuesday", "10:45 AM–9 PM"],
+      ["Wednesday", "10:45 AM–9 PM"],
+      ["Thursday", "10:45 AM–9 PM"],
+      ["Friday", "10:45 AM–9 PM"],
+      ["Saturday", "10:45 AM–9 PM"],
+      ["Sunday", "Closed"],
+    ],
+    latitude: "37.7942596",
+    longitude: "-122.3974244",
+  },
+  {
+    id: "chipotle-mexican-grill-3251-20th-ave",
+    name: "Chipotle Mexican Grill",
+    description:
+      "Fast-food chain offering Mexican fare, including design-your-own burritos, tacos & bowls.",
+    street_address: "3251 20th Ave Spc OP183",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94132",
+    website_url:
+      "https://locations.chipotle.com/ca/san-francisco/3251-20th-ave",
+    menu_url: "https://www.chipotle.com/home#menu",
+    nutrition_url: "https://www.chipotle.com/nutrition-calculator",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/chipotle-mexican-grill-san-francisco-270273/",
+    postmates_url:
+      "https://postmates.com/store/chipotle-mexican-grill-3251-20th-ave/EoHPV8P2QCib8WyVCTqxjg",
+    ubereats_url:
+      "https://www.ubereats.com/store/chipotle-mexican-grill-3251-20th-ave/EoHPV8P2QCib8WyVCTqxjg",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/chipotle-3251-20th-ave-san-francisco/2123251",
+    other_delivery_url:
+      "https://www.seamless.com/menu/chipotle-3251-20th-ave-san-francisco/2123251",
+    hours: [
+      ["Monday", "10:45 AM–11 PM"],
+      ["Tuesday", "10:45 AM–11 PM"],
+      ["Wednesday", "10:45 AM–11 PM"],
+      ["Thursday", "10:45 AM–11 PM"],
+      ["Friday", "10:45 AM–11 PM"],
+      ["Saturday", "10:45 AM–11 PM"],
+      ["Sunday", "10:45 AM–11 PM"],
+    ],
+    latitude: "37.7276457",
+    longitude: "-122.4765986",
+  },
+  {
+    id: "chipotle-mexican-grill-1523-sloat-blvd",
+    name: "Chipotle Mexican Grill",
+    description:
+      "Fast-food chain offering Mexican fare, including design-your-own burritos, tacos & bowls.",
+    street_address: "1523 Sloat Blvd",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94132",
+    website_url:
+      "https://locations.chipotle.com/ca/san-francisco/1523-sloat-blvd",
+    menu_url: "https://www.chipotle.com/home#menu",
+    nutrition_url: "https://www.chipotle.com/nutrition-calculator",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/chipotle-mexican-grill-san-francisco-270832/",
+    postmates_url:
+      "https://postmates.com/store/chipotle-mexican-grill-1523-sloat-blvd/79bosl7TS6alJ6xh5QWViA",
+    ubereats_url:
+      "https://www.ubereats.com/store/chipotle-mexican-grill-1523-sloat-blvd/79bosl7TS6alJ6xh5QWViA",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/chipotle-1523-sloat-blvd-san-francisco/2124417",
+    other_delivery_url:
+      "https://www.seamless.com/menu/chipotle-1523-sloat-blvd-san-francisco/2124417",
+    hours: [
+      ["Monday", "10:45 AM–10 PM"],
+      ["Tuesday", "10:45 AM–10 PM"],
+      ["Wednesday", "10:45 AM–10 PM"],
+      ["Thursday", "10:45 AM–10 PM"],
+      ["Friday", "10:45 AM–10 PM"],
+      ["Saturday", "10:45 AM–10 PM"],
+      ["Sunday", "10:45 AM–10 PM"],
+    ],
+    latitude: "37.7324529",
+    longitude: "-122.489983",
+  },
+  {
+    id: "dennys-816-mission-st",
+    name: "Denny's",
+    description:
+      "Casual diner chain dishing up classic American comfort fare, including all-day breakfast favorites.",
+    street_address: "816 Mission St",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94103",
+    website_url: "https://locations.dennys.com/CA/SAN-FRANCISCO/246873",
+    menu_url: "https://www.dennys.com/location/dennys-6873/menu",
+    nutrition_url:
+      "https://www.dennys.com/sites/default/files/2022-11/oct22_Nutrition_Guide.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/denny%27s-san-francisco-2938/",
+    postmates_url:
+      "https://postmates.com/store/dennys-soma/pgahNG4ATridvy9zSBCI0Q",
+    ubereats_url:
+      "https://www.ubereats.com/store/dennys-soma/pgahNG4ATridvy9zSBCI0Q",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/dennys-mission-st-816-mission-st-san-francisco/316685",
+    other_delivery_url:
+      "https://www.seamless.com/menu/dennys-mission-st-816-mission-st-san-francisco/316685",
+    hours: [
+      ["Monday", "Open 24 hours"],
+      ["Tuesday", "Open 24 hours"],
+      ["Wednesday", "Open 24 hours"],
+      ["Thursday", "Open 24 hours"],
+      ["Friday", "Open 24 hours"],
+      ["Saturday", "Open 24 hours"],
+      ["Sunday", "Open 24 hours"],
+    ],
+    latitude: "37.7842287",
+    longitude: "-122.4049526",
+  },
+  {
+    id: "dickeys-barbecue-pit-590-van-ness-ave",
+    name: "Dickey's Barbecue Pit",
+    description:
+      "BBQ chain eatery featuring house-smoked meats, stuffed baked potatoes & classic sides.",
+    street_address: "590 Van Ness Ave.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94102",
+    website_url:
+      "https://www.dickeys.com/locations/California/San-Francisco/san-francisco-van-ness-ave",
+    menu_url: "https://www.dickeys.com/static/docs/2023_Menu-At-Glance.pdf",
+    nutrition_url: "https://www.dickeys.com/company/nutritional",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/dickey's-barbecue-pit-san-francisco-1272544/",
+    postmates_url: undefined,
+    ubereats_url:
+      "https://www.ubereats.com/store/dickeys-barbecue-pit-ca-2046-590-van-ness-ave/ukrdQgciSPyN0WmMcIiMIA",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/dickeys-barbecue-pit-590-van-ness-ave-san-francisco/2423749",
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "11 AM–9 PM"],
+      ["Tuesday", "11 AM–9 PM"],
+      ["Wednesday", "11 AM–9 PM"],
+      ["Thursday", "11 AM–9 PM"],
+      ["Friday", "11 AM–9 PM"],
+      ["Saturday", "11 AM–9 PM"],
+      ["Sunday", "11 AM–9 PM"],
+    ],
+    latitude: "37.7809541",
+    longitude: "-122.4201966",
+  },
+  {
+    id: "extreme-pizza-1980-union-st",
+    name: "Extreme Pizza",
+    description:
+      "Pizzeria chain specializing in innovative pies customized with unusual toppings.",
+    street_address: "1980 Union St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94123",
+    website_url: "https://www.extremepizza.com/",
+    menu_url: "https://www.extremepizza.com/menus/",
+    nutrition_url: undefined,
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/extreme-pizza-san-francisco-24268499/",
+    postmates_url:
+      "https://postmates.com/store/extreme-pizza-marina/3Z_-LhsoT4-4fSXVRIIDRA",
+    ubereats_url:
+      "https://www.ubereats.com/neighborhood/union-street-san-francisco-ca",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/extreme-pizza-1980-union-st-san-francisco/4450952",
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "11 AM–7 PM"],
+      ["Tuesday", "11 AM–9 PM"],
+      ["Wednesday", "11 AM–9 PM"],
+      ["Thursday", "11 AM–9 PM"],
+      ["Friday", "12 PM–12 AM"],
+      ["Saturday", "12 PM–12 AM"],
+      ["Sunday", "11 AM–8 PM"],
+    ],
+    latitude: "37.797759",
+    longitude: "-122.431837",
+  },
+  {
+    id: "fogo-de-chao-brazilian-steakhouse-201-3rd-st-suite-100",
+    name: "Fogo de Chão Brazilian Steakhouse",
+    description:
+      "Upscale Brazilian chain for all-you-can-eat meat carved tableside plus an extensive salad bar.",
+    street_address: "201 3rd St Suite 100",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94103",
+    website_url: "https://fogodechao.com/location/san-francisco/",
+    menu_url: "https://fogodechao.com/menu/",
+    nutrition_url: "https://fogodechao.com/healthy/",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/fogo-de-ch%C3%A3o-san-francisco-297011/",
+    postmates_url:
+      "https://postmates.com/store/fogo-de-chao-san-francisco/CiX1Gf0qRF6fNK7EPcfltQ",
+    ubereats_url:
+      "https://www.ubereats.com/store/fogo-de-chao-san-francisco/CiX1Gf0qRF6fNK7EPcfltQ",
+    grubhub_url: undefined,
+    other_delivery_url:
+      "https://www.trycaviar.com/store/fogo-de-ch%C3%A3o-san-francisco-297011/",
+    hours: [
+      ["Monday", "11:30 AM–10 PM"],
+      ["Tuesday", "11:30 AM–10 PM"],
+      ["Wednesday", "11:30 AM–10 PM"],
+      ["Thursday", "11:30 AM–10 PM"],
+      ["Friday", "11:30 AM–10:30 PM"],
+      ["Saturday", "11:30 AM–10:30 PM"],
+      ["Sunday", "11:30 AM–9 PM"],
+    ],
+    latitude: "37.7850918",
+    longitude: "-122.4001373",
+  },
+  {
+    id: "gotts-roadside-one-ferry-building-the-embarcadero-s",
+    name: "Gott's Roadside",
+    description:
+      "This retro eatery offers locally sourced burgers, fish tacos & beer, plus outdoor picnic tables.",
+    street_address: "One Ferry Building, The Embarcadero S",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94111",
+    website_url: "https://www.gotts.com/",
+    menu_url: "https://www.gotts.com/menu/",
+    nutrition_url: "https://www.gotts.com/media/allergens/allergens.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url: undefined,
+    postmates_url:
+      "https://postmates.com/store/gotts-roadside-ferry-building/d1iTVeJ2TGaT75MWMTJMMg",
+    ubereats_url:
+      "https://www.ubereats.com/store/gotts-roadside-ferry-building/d1iTVeJ2TGaT75MWMTJMMg",
+    grubhub_url: undefined,
+    other_delivery_url:
+      "https://www.toasttab.com/local/order/gotts-roadside-ferry-building/r-d0e906be-6b1e-4e30-bf38-f5bde3f036f3?diningOption=delivery&rwg_token=AJKvS9U0GeW1ajZSnBuEY9TEE4DLXhdFFY6q3eQoezE9oh1NSAmglqk1QaOYYOWeBOWsjJ6D-uf43Y52AAvRUOFO32r6zAJdLQ%3D%3D",
+    hours: [
+      ["Monday", "10 AM–9 PM"],
+      ["Tuesday", "10 AM–9 PM"],
+      ["Wednesday", "10 AM–9 PM"],
+      ["Thursday", "10 AM–10 PM"],
+      ["Friday", "10 AM–10 PM"],
+      ["Saturday", "10 AM–10 PM"],
+      ["Sunday", "10 AM–9 PM"],
+    ],
+    latitude: "37.794890",
+    longitude: "-122.397900",
+  },
+  {
+    id: "great-steak-3251-20th-ave-spc-25e",
+    name: "Great Steak",
+    description:
+      "Sandwich chain offering grilled-to-order sirloin cheesesteaks & other American comfort food.",
+    street_address: "3251 20th Ave Spc 25E",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94132",
+    website_url: "https://www.thegreatsteak.com/stores/7232",
+    menu_url: "https://www.thegreatsteak.com/menu/index.php",
+    nutrition_url: "https://www.sanfranbreadco.com/nutrition",
+    takeout: true,
+    delivery: true,
+    doordash_url: "https://www.doordash.com/business/great-steak-6584/",
+    postmates_url:
+      "https://postmates.com/store/great-steak-3251-20th-ave-spc-25e/hnCiyfpoR_erSKqN3875Zw",
+    ubereats_url:
+      "https://www.ubereats.com/store/great-steak-3251-20th-ave-spc-25e/hnCiyfpoR_erSKqN3875Zw",
+    grubhub_url: undefined,
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "10 AM–9 PM"],
+      ["Tuesday", "10 AM–9 PM"],
+      ["Wednesday", "10 AM–9 PM"],
+      ["Thursday", "10 AM–9 PM"],
+      ["Friday", "10 AM–9 PM"],
+      ["Saturday", "10 AM–9 PM"],
+      ["Sunday", "10 AM–9 PM"],
+    ],
+    latitude: "37.728935",
+    longitude: "-122.476829",
+  },
+  {
+    id: "gyu-kaku-japanese-bbq-855-howard-st",
+    name: "Gyu-Kaku Japanese BBQ",
+    description:
+      "Japanese barbecue dining experience where customers share premium cooked meats over a flaming charcoal grill.",
+    street_address: "855 Howard St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94103",
+    website_url: "https://www.gyu-kaku.com/sanfrancisco",
+    menu_url: "https://www.gyu-kaku.com/sanfrancisco/",
+    nutrition_url:
+      "https://www.gyu-kaku.com/wp-content/uploads/2022/02/guide_nutrition1910.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/gyu-kaku-japanese-bbq-san-francisco-1151043/",
+    postmates_url:
+      "https://postmates.com/store/gyu-kaku-japanese-bbq-san-francisco/ikJIWqEuTFe5A2gfvvNx9Q?diningMode=PICKUP",
+    ubereats_url:
+      "https://www.ubereats.com/store/gyu-kaku-japanese-bbq-san-francisco/ikJIWqEuTFe5A2gfvvNx9Q",
+    grubhub_url: undefined,
+    other_delivery_url:
+      "https://www.trycaviar.com/store/gyu-kaku-japanese-bbq-san-francisco-1151043/?pickup=true",
+    hours: [
+      ["Monday", "11:30AM–9:15PM"],
+      ["Tuesday", "11:30AM–9:15PM"],
+      ["Wednesday", "11:30AM–9:15PM"],
+      ["Thursday", "11:30AM–9:15PM"],
+      ["Friday", "11:30AM–10:15PM"],
+      ["Saturday", "11:30AM–10:15PM"],
+      ["Sunday", "11:30AM–9:15PM"],
+    ],
+    latitude: "37.7821348",
+    longitude: "-122.4038531",
+  },
+  {
+    id: "hard-rock-cafe-39-pier-256",
+    name: "Hard Rock Cafe",
+    description:
+      "Rock 'n' roll-themed chain with a high-energy vibe serving burgers & American classics.",
+    street_address: "39 Pier #256",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94133",
+    website_url: "https://www.hardrockcafe.com/location/san-francisco/",
+    menu_url:
+      "https://cafe.hardrock.com/files/5282/23-HRC-05165_-_Eats_Menu_June_2023_-M1-ForWEB.pdf",
+    nutrition_url:
+      "https://cafe.hardrock.com/files/5282/18-HRC-9165-OpenTableEatsMenu_F1.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url: undefined,
+    postmates_url: undefined,
+    ubereats_url: undefined,
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/hard-rock-cafe-39-pier--256-san-francisco/1945231",
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "10 AM–10 PM"],
+      ["Tuesday", "10 AM–10 PM"],
+      ["Wednesday", "10 AM–10 PM"],
+      ["Thursday", "10 AM–10 PM"],
+      ["Friday", "10 AM–10 PM"],
+      ["Saturday", "10 AM–10 PM"],
+      ["Sunday", "10 AM–10 PM"],
+    ],
+    latitude: "37.8086112",
+    longitude: "-122.4098971",
+  },
+  {
+    id: "ihop-200-beach-st",
+    name: "IHOP",
+    description:
+      "Long-standing chain serving a wide variety of pancakes & other American breakfast & diner fare.",
+    street_address: "200 Beach St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94133",
+    website_url:
+      "https://restaurants.ihop.com/en-us/ca/san-francisco/breakfast-200-beach-st-1762",
+    menu_url: "https://www.ihop.com/en/menu",
+    nutrition_url: "https://www.ihop.com/en/nutrition",
+    takeout: true,
+    delivery: true,
+    doordash_url: "https://www.doordash.com/store/ihop-san-francisco-17789/",
+    postmates_url:
+      "https://postmates.com/store/ihop-beach-st/p4ZloGNEQqGjaAoV23UBdA",
+    ubereats_url:
+      "https://www.ubereats.com/store/ihop-beach-st/p4ZloGNEQqGjaAoV23UBdA",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/ihop-200-beach-st-san-francisco/4986256?delivery=true&rwg_token=AJKvS9X9x3AvlOFP81GhquMz5qngehNBbB__HApkBa5Sy0kfT7ephHW_R_OTHF-1hkkym-j5bxomS5iJ5OiVPojlZSpb7mR01g%3D%3D",
+    other_delivery_url:
+      "https://www.seamless.com/menu/ihop-200-beach-st-san-francisco/4986256?delivery=true&rwg_token=AJKvS9UR_ZmVJXDCYD736k5DbCuiYARUa1mLUmW0Vl_UqXHAtnZ0eFvt7V667EPj_3ZPTznXfrj11BMEkid28Neqz1efc3E7vA%3D%3D",
+    hours: [
+      ["Monday", "6 AM–10 PM"],
+      ["Tuesday", "6 AM–10 PM"],
+      ["Wednesday", "6 AM–10 PM"],
+      ["Thursday", "6 AM–10 PM"],
+      ["Friday", "6 AM–12 AM"],
+      ["Saturday", "6 AM–12 AM"],
+      ["Sunday", "6 AM–10 PM"],
+    ],
+    latitude: "37.8078529",
+    longitude: "-122.4126454",
+  },
+  {
+    id: "jack-in-the-box-4649-geary-blvd",
+    name: "Jack in the Box",
+    description:
+      "Burgers, chicken, tacos & breakfast items fill out the menu at this fast-food chain.",
+    street_address: "4649 Geary Blvd",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94118",
+    website_url:
+      "https://locations.jackinthebox.com/us/ca/san-francisco/4649-geary-blvd",
+    menu_url: "https://www.jackinthebox.com/menu",
+    nutrition_url:
+      "https://assets.ctfassets.net/a9odgsv44wmq/2TASloFvjca2Yk6z62XQY2/07218b7c9dcbb4c70abb102720087106/2022_Nutrition_Facts.PDF",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/en-CA/store/jack-in-the-box-san-francisco-1146517/",
+    postmates_url:
+      "https://postmates.com/brand-city/san-francisco-ca/jack-in-the-box",
+    ubereats_url: undefined,
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/jack-in-the-box-4649-geary-blvd-san-francisco/611383",
+    other_delivery_url:
+      "https://www.seamless.com/menu/jack-in-the-box-4649-geary-blvd-san-francisco/611383",
+    hours: [
+      ["Monday", "Open 24 hours"],
+      ["Tuesday", "Open 24 hours"],
+      ["Wednesday", "Open 24 hours"],
+      ["Thursday", "Open 24 hours"],
+      ["Friday", "Open 24 hours"],
+      ["Saturday", "Open 24 hours"],
+      ["Sunday", "Open 24 hours"],
+    ],
+    latitude: "37.7805826",
+    longitude: "-122.4694611",
+  },
+  {
+    id: "jack-in-the-box-366-bayshore-blvd",
+    name: "Jack in the Box",
+    description:
+      "Burgers, chicken, tacos & breakfast items fill out the menu at this fast-food chain.",
+    street_address: "366 Bayshore Blvd",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94124",
+    website_url:
+      "https://locations.jackinthebox.com/us/ca/san-francisco/366-bayshore-blvd",
+    menu_url: "https://www.jackinthebox.com/menu",
+    nutrition_url:
+      "https://assets.ctfassets.net/a9odgsv44wmq/2TASloFvjca2Yk6z62XQY2/07218b7c9dcbb4c70abb102720087106/2022_Nutrition_Facts.PDF",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/jack-in-the-box-san-francisco-1146520/",
+    postmates_url:
+      "https://postmates.com/store/jack-in-the-box-366-bayshore-blvd/WwovOWamSBibfDn3IoLo8A",
+    ubereats_url:
+      "https://www.ubereats.com/store/jack-in-the-box-366-bayshore-blvd/WwovOWamSBibfDn3IoLo8A",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/jack-in-the-box-366-bayshore-blvd-san-francisco/611359",
+    other_delivery_url:
+      "https://www.seamless.com/menu/jack-in-the-box-366-bayshore-blvd-san-francisco/611359",
+    hours: [
+      ["Monday", "Open 24 hours"],
+      ["Tuesday", "Open 24 hours"],
+      ["Wednesday", "Open 24 hours"],
+      ["Thursday", "Open 24 hours"],
+      ["Friday", "Open 24 hours"],
+      ["Saturday", "Open 24 hours"],
+      ["Sunday", "Open 24 hours"],
+    ],
+    latitude: "37.7415988",
+    longitude: "-122.4067062",
+  },
+  {
+    id: "kasa-indian-eatery-catering-4001-18th-st",
+    name: "Kasa Indian Eatery & Catering",
+    description:
+      "Brightly colored spot specializing in wraps, plus other Indian fare with sustainable ingredients.",
+    street_address: "4001 18th St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94114",
+    website_url: "https://www.kasaindian.com/",
+    menu_url:
+      "https://www.kasaindian.com/indian-catering-san-francisco-and-peninsula/",
+    nutrition_url: "https://www.kasaindian.com/kasa-nutrition/",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/kasa-indian-eatery-san-francisco-2314/",
+    postmates_url:
+      "https://postmates.com/store/kasa-indian-eatery-castro/hxjDghLkQRy3dXJsom8gYQ",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/kasa-indian-eatery-castro-4001-18th-st-san-francisco/308990",
+    hours: [
+      ["Monday", "11 AM–9 PM"],
+      ["Tuesday", "11 AM–9 PM"],
+      ["Wednesday", "11 AM–9 PM"],
+      ["Thursday", "11 AM–9 PM"],
+      ["Friday", "11 AM–9 PM"],
+      ["Saturday", "12–9 PM"],
+      ["Sunday", "12–9 PM"],
+    ],
+    latitude: "37.7608852",
+    longitude: "-122.4329601",
+  },
+  {
+    id: "kfc-4285-mission-st",
+    name: "KFC",
+    description:
+      "Restaurant chain known for its buckets of fried chicken, plus combo meals & sides.",
+    street_address: "4285 Mission St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94112",
+    website_url: "https://locations.kfc.com/ca/san-francisco/4285-mission-st",
+    menu_url: "https://www.kfc.com/menu",
+    nutrition_url: "https://www.kfc.com/nutrition",
+    takeout: true,
+    delivery: true,
+    doordash_url: "https://www.doordash.com/store/kfc-san-francisco-24664/",
+    postmates_url:
+      "https://postmates.com/store/kfc-4285-mission-st/6Ew5jlVSR4yy6zX1VInXcQ",
+    ubereats_url:
+      "https://www.ubereats.com/store/kfc-4285-mission-st/6Ew5jlVSR4yy6zX1VInXcQ",
+    grubhub_url: "https://www.grubhub.com/food/kfc/ca-san_francisco",
+    other_delivery_url:
+      "https://www.seamless.com/menu/kfc-4285-mission-st-san-francisco/778021",
+    hours: [
+      ["Monday", "10 AM–12 AM"],
+      ["Tuesday", "10 AM–12 AM"],
+      ["Wednesday", "10 AM–12 AM"],
+      ["Thursday", "10 AM–12 AM"],
+      ["Friday", "10 AM–12 AM"],
+      ["Saturday", "10 AM–12 AM"],
+      ["Sunday", "10 AM–12 AM"],
+    ],
+    latitude: "37.7289042",
+    longitude: "-122.4307574",
+  },
+  {
+    id: "kfc-1150-taraval-st",
+    name: "KFC",
+    description:
+      "Restaurant chain known for its buckets of fried chicken, plus combo meals & sides.",
+    street_address: "1150 Taraval St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94116",
+    website_url:
+      "https://locations.kfc.com/ca/san-francisco/1150-taraval-street",
+    menu_url: "https://www.kfc.com/nutrition",
+    nutrition_url: "https://www.kfc.com/nutrition",
+    takeout: true,
+    delivery: true,
+    doordash_url: "https://www.doordash.com/store/kfc-san-francisco-17487/",
+    postmates_url: "https://postmates.com/brand-city/san-francisco-ca/kfc",
+    ubereats_url:
+      "https://www.ubereats.com/store/kfc-1150-taraval-street/xbO_rRlSRDinzbjQ7VlO4A",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/kfc-1150-taraval-st-san-francisco/777968",
+    other_delivery_url:
+      "https://www.seamless.com/menu/kfc-1150-taraval-st-san-francisco/777968",
+    hours: [
+      ["Monday", "10 AM–12 AM"],
+      ["Tuesday", "10 AM–12 AM"],
+      ["Wednesday", "10 AM–12 AM"],
+      ["Thursday", "10 AM–12 AM"],
+      ["Friday", "10 AM–12 AM"],
+      ["Saturday", "10 AM–12 AM"],
+      ["Sunday", "10 AM–12 AM"],
+    ],
+    latitude: "37.7431133",
+    longitude: "-122.4788046",
+  },
+  {
+    id: "kfc-4150-geary-blvd",
+    name: "KFC",
+    description:
+      "Restaurant chain known for its buckets of fried chicken, plus combo meals & sides.",
+    street_address: "4150 Geary Blvd.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94118",
+    website_url:
+      "https://locations.kfc.com/ca/san-francisco/4150-geary-boulevard",
+    menu_url: "https://www.kfc.com/menu",
+    nutrition_url: "https://www.kfc.com/nutrition",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/kfc-san-francisco-11374/32088/",
+    postmates_url:
+      "https://postmates.com/store/kfc-4150-geary-boulevard/alQ9KL_vT8iyDr_FGvBQ6Q",
+    ubereats_url:
+      "https://www.ubereats.com/store/kfc-4150-geary-boulevard/alQ9KL_vT8iyDr_FGvBQ6Q",
+    grubhub_url: "https://www.grubhub.com/food/kfc/ca-san_francisco",
+    hours: [
+      ["Monday", "10 AM–12 AM"],
+      ["Tuesday", "10 AM–12 AM"],
+      ["Wednesday", "10 AM–12 AM"],
+      ["Thursday", "10 AM–12 AM"],
+      ["Friday", "10 AM–12 AM"],
+      ["Saturday", "10 AM–12 AM"],
+      ["Sunday", "10 AM–12 AM"],
+    ],
+    latitude: "37.7812459",
+    longitude: "-122.4641564",
+  },
+  {
+    id: "kitava-2011-mission-st",
+    name: "Kitava",
+    description:
+      "Airy cafe with minimalist decor offering gluten- & dairy-free bowls, sides & desserts.",
+    street_address: "2011 Mission St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94110",
+    website_url: "https://www.kitava.com/",
+    menu_url:
+      "https://drive.google.com/file/d/1xMT3IbRPNZrB8zNpw24OaCxCiknpY30w/view",
+    nutrition_url:
+      "https://drive.google.com/file/d/1UsxPREn6SRFSpPGhj-IIIbFvSoHOZCEN/view",
+    takeout: true,
+    delivery: true,
+    doordash_url: "https://www.doordash.com/business/kitava-21820/",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/kitava-2011-mission-st-san-francisco/354238",
+    hours: [
+      ["Monday", "11 AM–9 PM"],
+      ["Tuesday", "11 AM–9 PM"],
+      ["Wednesday", "11 AM–9 PM"],
+      ["Thursday", "11 AM–9 PM"],
+      ["Friday", "11 AM–9 PM"],
+      ["Saturday", "11 AM–9 PM"],
+      ["Sunday", "11 AM–9 PM"],
+    ],
+    latitude: "37.7647695",
+    longitude: "-122.4194823",
+  },
+  {
+    id: "koja-kitchen-309-6th-ave",
+    name: "Koja Kitchen",
+    description:
+      "Food truck team's stylish permanent space serving innovative Korean & Japanese fusion dishes.",
+    street_address: "309 6th Ave",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94118",
+    website_url: "https://www.kojakitchen.com/",
+    menu_url: "https://www.kojakitchen.com/menu",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/koja-kitchen-san-francisco-44234/",
+    postmates_url:
+      "https://postmates.com/brand-city/san-francisco-ca/koja-kitchen",
+    grubhub_url: "https://www.grubhub.com/food/koja_kitchen/ca-san_francisco",
+    other_delivery_url:
+      "https://www.seamless.com/menu/koja-kitchen-309-6th-ave-san-francisco/2041910",
+    hours: [
+      ["Monday", "Closed"],
+      ["Tuesday", "11 AM–8 PM"],
+      ["Wednesday", "11 AM–8 PM"],
+      ["Thursday", "11 AM–8 PM"],
+      ["Friday", "11 AM–8 PM"],
+      ["Saturday", "11 AM–8 PM"],
+      ["Sunday", "11 AM–8 PM"],
+    ],
+    latitude: "37.7829055",
+    longitude: "-122.4631347",
+  },
+  {
+    id: "koja-kitchen-601-mission-bay-boulevard-north-a",
+    name: "Koja Kitchen",
+    description:
+      "Food truck team's stylish permanent space serving innovative Korean & Japanese fusion dishes.",
+    street_address: "601 Mission Bay Boulevard North A",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94158",
+    website_url:
+      "https://www.kojakitchen.com/santa-clara-westfield-valley-fair-1",
+    menu_url: "https://www.kojakitchen.com/menu",
+    nutrition_url: undefined,
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/en-US/store/koja-kitchen-san-francisco-162957/",
+    postmates_url:
+      "https://postmates.com/store/koja-kitchen-spark-social-sf/vIA2A7BvQ4e92vh-97b4Ow",
+    ubereats_url:
+      "https://www.ubereats.com/store/koja-kitchen-spark-social-sf/vIA2A7BvQ4e92vh-97b4Ow",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/koja-kitchen-601-mission-bay-blvd-san-francisco/934709?delivery=true&rwg_token=AJKvS9WhZAWJJ5QbprgfBHhg8ys5dqrKCxeuTeqvg-yVI66L78_x4FtupdzatL3vCGwzyUBe9sVGQITAuvuXQZn4pW2ozKKAYw%3D%3D",
+    other_delivery_url:
+      "https://www.seamless.com/menu/koja-kitchen-601-mission-bay-blvd-san-francisco/934709?delivery=true&rwg_token=AJKvS9XClo3x1Y_GY4MhEbwH4hl0eg_FwT16Zde1loQfJbMAY7CvWPamSKL62ckurJZBEbasEjhpmEpnGnneWhfSYVGhfBmxNw%3D%3D",
+    hours: [
+      ["Monday", "11 AM–9 PM"],
+      ["Tuesday", "11 AM–9 PM"],
+      ["Wednesday", "11 AM–9 PM"],
+      ["Thursday", "11 AM–9 PM"],
+      ["Friday", "11 AM–9 PM"],
+      ["Saturday", "11 AM–9 PM"],
+      ["Sunday", "11 AM–9 PM"],
+    ],
+    latitude: "37.770753",
+    longitude: "-122.3916722",
+  },
+  {
+    id: "krispy-krunchy-fried-chicken-599-s-van-ness-ave",
+    name: "Krispy Krunchy Fried Chicken",
+    description:
+      "Fast-food eatery specializing in Cajun-style fried chicken, plus wings, seafood, breakfast & more.",
+    street_address: "599 S Van Ness Ave.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94110",
+    website_url: "https://www.krispykrunchy.com/",
+    menu_url: "https://www.krispykrunchy.com/menu/",
+    nutrition_url: "https://www.krispykrunchy.com/nutritional-information/",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/business/krispy-krunchy-chicken-18691/",
+    postmates_url: "https://postmates.com/brand/krispy-krunchy-chicken",
+    ubereats_url: "https://www.ubereats.com/brand/krispy-krunchy-chicken",
+    grubhub_url: "https://www.grubhub.com/food/krispy_krunchy_chicken",
+    other_delivery_url:
+      "https://www.trycaviar.com/store/krispy-krunchy-chicken-san-francisco-24095281/",
+    hours: [
+      ["Monday", "10:00 AM - 10:00 PM"],
+      ["Tuesday", "10:00 AM - 10:00 PM"],
+      ["Wednesday", "10:00 AM - 10:00 PM"],
+      ["Thursday", "10:00 AM - 10:00 PM"],
+      ["Friday", "10:00 AM - 10:00 PM"],
+      ["Saturday", "10:00 AM - 10:00 PM"],
+      ["Sunday", "10:00 AM - 10:00 PM"],
+    ],
+    latitude: "37.7638243",
+    longitude: "-122.4169723",
+  },
+  {
+    id: "kura-revolving-sushi-bar-3251-20th-ave-space-220",
+    name: "Kura Revolving Sushi Bar",
+    description:
+      "Hand-made sushi that makes its way around the restaurant on a conveyor belt.",
+    street_address: "3251 20th Ave Space #220",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94132",
+    website_url: "https://kurasushi.com/locations/san-francisco-ca-stonestown/",
+    menu_url: "https://kurasushi.com/menu",
+    nutrition_url: "https://kurasushi.com/menu/nutrition",
+    takeout: false,
+    delivery: false,
+    doordash_url:
+      "https://www.doordash.com/store/kura-sushi-san-francisco-27567394/",
+    postmates_url: undefined,
+    ubereats_url: undefined,
+    grubhub_url: undefined,
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "11 AM–8 PM"],
+      ["Tuesday", "11 AM–8 PM"],
+      ["Wednesday", "11 AM–8 PM"],
+      ["Thursday", "11 AM–8 PM"],
+      ["Friday", "10:30 AM–9 PM"],
+      ["Saturday", "10:30 AM–9 PM"],
+      ["Sunday", "10:30 AM–7 PM"],
+    ],
+    latitude: "37.7280128",
+    longitude: "-122.4771869",
+  },
+  {
+    id: "l-and-l-hawaiian-barbecue-312-kearny-st",
+    name: "L&L Hawaiian Barbecue",
+    description:
+      "Island-themed fast-food chain whose menu features traditional Hawaiian plate lunches.",
+    street_address: "312 Kearny St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94108",
+    website_url: "https://www.hawaiianbarbecue.com/",
+    menu_url: "https://www.hawaiianbarbecue.com/menu/",
+    nutrition_url: undefined,
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/en-US/store/l&l-hawaiian-barbecue-san-francisco-928017/",
+    postmates_url:
+      "https://postmates.com/brand-city/san-francisco-ca/l-l-hawaiian-bbq",
+    ubereats_url:
+      "https://www.ubereats.com/brand-city/san-francisco-ca/l-l-hawaiian-bbq",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/ll-hawaiian-barbecue-312-kearny-st-san-francisco/322881",
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "10 AM–7 PM"],
+      ["Tuesday", "10 AM–7 PM"],
+      ["Wednesday", "10 AM–7 PM"],
+      ["Thursday", "10 AM–7 PM"],
+      ["Friday", "10 AM–7 PM"],
+      ["Saturday", "11 AM–6 PM"],
+      ["Sunday", "Closed"],
+    ],
+    latitude: "37.7910123",
+    longitude: "-122.4039719",
+  },
+  {
+    id: "lemonade-restaurant-781-mission-st",
+    name: "Lemonade Restaurant",
+    description:
+      "Cafeteria-style chain serving a seasonal comfort-food menu paired with many types of lemonade.",
+    street_address: "781 Mission St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94103",
+    website_url: "https://lemonadela.com/25756/menu/lunch-dinner#chefs-bowls",
+    menu_url: "https://lemonadela.com/25736/menu/lunch-dinner",
+    nutrition_url: "https://lemonadela.com/nutrition",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/lemonade-san-francisco-64817/",
+    postmates_url:
+      "https://postmates.com/store/lemonade-yerba-buena/8IUfiIhIScaDhjEommvcsg",
+    ubereats_url: undefined,
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/lemonade-restaurant-781-mission-st-san-francisco/1167297",
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "8 AM–8 PM"],
+      ["Tuesday", "8 AM–8 PM"],
+      ["Wednesday", "8 AM–8 PM"],
+      ["Thursday", "8 AM–8 PM"],
+      ["Friday", "8 AM–8 PM"],
+      ["Saturday", "8 AM–8 PM"],
+      ["Sunday", "8 AM–8 PM"],
+    ],
+    latitude: "37.7848907",
+    longitude: "-122.4034572",
+  },
+  {
+    id: "mendocino-farms-211-sutter-st",
+    name: "Mendocino Farms",
+    description:
+      "Creative gourmet sandwiches, soups & salads, made with local & seasonal ingredients.",
+    street_address: "211 Sutter St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94104",
+    website_url:
+      "https://locations.chipotle.com/ca/san-francisco/211-sutter-st",
+    menu_url: "https://www.chipotle.com/home#menu",
+    nutrition_url: "https://www.chipotle.com/nutrition-calculator",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/chipotle-mexican-grill-san-francisco-272531/",
+    postmates_url:
+      "https://postmates.com/store/chipotle-mexican-grill-211-sutter-st/RqcfbUKKRnSNIaojzqO4MQ",
+    ubereats_url:
+      "https://www.ubereats.com/store/chipotle-mexican-grill-211-sutter-st/RqcfbUKKRnSNIaojzqO4MQ",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/chipotle-211-sutter-st-san-francisco/2125899?delivery=true&rwg_token=AJKvS9Wgn_9PPtKuvfXpk1yByKSN0CrF5lMyLtgaWb1mbORWNxdzJgH7-cfrT8U42H4QSsWslEx53AsOpns0JCHOuhEU93KEQA%3D%3D",
+    other_delivery_url:
+      "https://www.seamless.com/menu/chipotle-211-sutter-st-san-francisco/2125899?delivery=true&rwg_token=AJKvS9VC_7MaqQiawW_uRcdcA947NQBgH_jnT6Mml-m_ll8oWnRBnLIaQGP4m63u8neVRnDxqNURlXKNrLWMZrZR7uGZbox48w%3D%3D",
+    hours: [
+      ["Monday", "10:45 AM–10 PM"],
+      ["Tuesday", "10:45 AM–10 PM"],
+      ["Wednesday", "10:45 AM–10 PM"],
+      ["Thursday", "10:45 AM–10 PM"],
+      ["Friday", "10:45 AM–10 PM"],
+      ["Saturday", "10:45 AM–8 PM"],
+      ["Sunday", "10:45 AM–8 PM"],
+    ],
+    latitude: "37.7896709",
+    longitude: "-122.4039997",
+  },
+  {
+    id: "mendocino-farms-465-california-st",
+    name: "Mendocino Farms",
+    description:
+      "Creative gourmet sandwiches, soups & salads, made with local & seasonal ingredients.",
+    street_address: "465 California St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94104",
+    website_url: "https://www.mendocinofarms.com/locations/465-california",
+    menu_url: "https://www.mendocinofarms.com/menus/",
+    nutrition_url:
+      "https://www.mendocinofarms.com/wp-content/uploads/2024/01/Mendocino-Farms-Nutrition-Analysis-WP-DRAFT-Nutrition-Card-January-2024.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url: "https://www.doordash.com/business/mendocino-farms-944/",
+    postmates_url:
+      "https://postmates.com/brand-city/san-francisco-ca/mendocino-farms",
+    ubereats_url:
+      "https://www.ubereats.com/neighborhood/north-beach-san-francisco-ca",
+    grubhub_url: undefined,
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "10 AM–7:30 PM"],
+      ["Tuesday", "10 AM–7:30 PM"],
+      ["Wednesday", "10 AM–7:30 PM"],
+      ["Thursday", "10 AM–7:30 PM"],
+      ["Friday", "10 AM–7:30 PM"],
+      ["Saturday", "Closed"],
+      ["Sunday", "Closed"],
+    ],
+    latitude: "37.7927841",
+    longitude: "-122.4023581",
+  },
+  {
+    id: "mendocino-farms-300-mission-st",
+    name: "Mendocino Farms",
+    description:
+      "Creative gourmet sandwiches, soups & salads, made with local & seasonal ingredients.",
+    street_address: "300 Mission St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94105",
+    website_url: "https://www.mendocinofarms.com/locations/300-mission",
+    menu_url: "https://www.mendocinofarms.com/menus/",
+    nutrition_url:
+      "https://www.mendocinofarms.com/wp-content/uploads/2018/05/Mendo-Nutritional-Info.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/mendocino-farms-san-francisco-2128840/",
+    postmates_url:
+      "https://postmates.com/store/mendocino-farms-300-mission/8kOBNWltTp6auPNE5l0fhQ",
+    ubereats_url:
+      "https://www.ubereats.com/store/mendocino-farms-300-mission/8kOBNWltTp6auPNE5l0fhQ",
+    grubhub_url: undefined,
+    other_delivery_url:
+      "https://www.trycaviar.com/store/mendocino-farms-san-francisco-2128840/",
+    hours: [
+      ["Monday", "11:30 AM–10 PM"],
+      ["Tuesday", "11:30 AM–10 PM"],
+      ["Wednesday", "11:30 AM–10 PM"],
+      ["Thursday", "11:30 AM–10 PM"],
+      ["Friday", "11:30 AM–10:30 PM"],
+      ["Saturday", "11:30 AM–10:30 PM"],
+      ["Sunday", "11:30 AM–10 PM"],
+    ],
+    latitude: "37.7913266",
+    longitude: "-122.3963941",
+  },
+  {
+    id: "mixt-120-sansome-st",
+    name: "Mixt",
+    description:
+      "Eco-minded local chain serving gourmet salads & sandwiches in a modern, counter-serve setting.",
+    street_address: "120 Sansome St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94104",
+    website_url: "https://www.mixt.com/",
+    menu_url: "https://www.mixt.com/menu/san-francisco/",
+    nutrition_url: "https://www.mixt.com/nutrition/",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/mixt-salads-san-francisco-710901/",
+    postmates_url:
+      "https://postmates.com/store/mixt-120-sansome/sn-DwlG2V5-8-iDh6Vhdkw",
+    ubereats_url:
+      "https://www.ubereats.com/store/mixt-120-sansome/sn-DwlG2V5-8-iDh6Vhdkw",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/mixt-120-sansome-st-san-francisco/2249951",
+    other_delivery_url:
+      "https://www.seamless.com/menu/mixt-120-sansome-st-san-francisco/2249951",
+    hours: [
+      ["Monday", "10:30 AM–3 PM"],
+      ["Tuesday", "10:30 AM–3 PM"],
+      ["Wednesday", "10:30 AM–3 PM"],
+      ["Thursday", "10:30 AM–3 PM"],
+      ["Friday", "10:30 AM–3 PM"],
+      ["Saturday", "Closed"],
+      ["Sunday", "Closed"],
+    ],
+    latitude: "37.7916345",
+    longitude: "-122.4006975",
+  },
+  {
+    id: "mixt-240-kearny-st",
+    name: "Mixt",
+    description:
+      "Eco-minded local chain serving gourmet salads & sandwiches in a modern, counter-serve setting.",
+    street_address: "240 Kearny St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94108",
+    website_url: "https://www.mixt.com/",
+    menu_url: "https://www.mixt.com/menu/san-francisco/",
+    nutrition_url: "https://www.mixt.com/nutrition/",
+    takeout: true,
+    delivery: true,
+    doordash_url: "https://www.doordash.com/business/mixt-salads-967/",
+    postmates_url:
+      "https://postmates.com/neighborhood/union-square-san-francisco-ca",
+    ubereats_url:
+      "https://www.ubereats.com/store/mixt-kearny-st/uaFd-UssT_SFzfXfKHV10Q",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/mixt-240-kearny-st-san-francisco/2249678",
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "10:30 AM–3 PM"],
+      ["Tuesday", "10:30 AM–3 PM"],
+      ["Wednesday", "10:30 AM–3 PM"],
+      ["Thursday", "10:30 AM–3 PM"],
+      ["Friday", "10:30 AM–3 PM"],
+      ["Saturday", "Closed"],
+      ["Sunday", "Closed"],
+    ],
+    latitude: "37.7903917",
+    longitude: "-122.4037873",
+  },
+  {
+    id: "mixt-70-mission-st",
+    name: "Mixt",
+    description:
+      "Eco-minded local chain serving gourmet salads & sandwiches in a modern, counter-serve setting.",
+    street_address: "70 Mission St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94105",
+    website_url: "https://www.mixt.com/",
+    menu_url: "https://www.mixt.com/menu/",
+    nutrition_url: "https://www.mixt.com/nutrition/",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/mixt-salads-san-francisco-710899/",
+    postmates_url:
+      "https://postmates.com/store/mixt-mission-st/9tvF12J5RgWpyYEH6TFILQ",
+    ubereats_url: undefined,
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/mixt-70-mission-st-san-francisco/2250528",
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "10:30 AM–3 PM"],
+      ["Tuesday", "10:30 AM–3 PM"],
+      ["Wednesday", "10:30 AM–3 PM"],
+      ["Thursday", "10:30 AM–3 PM"],
+      ["Friday", "10:30 AM–3 PM"],
+      ["Saturday", "Closed"],
+      ["Sunday", "Closed"],
+    ],
+    latitude: "37.7930278",
+    longitude: "-122.3940062",
+  },
+  {
+    id: "mixt-100-california-st",
+    name: "Mixt",
+    description:
+      "Eco-minded local chain serving gourmet salads & sandwiches in a modern, counter-serve setting.",
+    street_address: "100 California St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94111",
+    website_url: "https://www.mixt.com/",
+    menu_url: "https://www.mixt.com/menu/",
+    nutrition_url: "https://www.mixt.com/nutrition/",
+    takeout: true,
+    delivery: false,
+    doordash_url: undefined,
+    postmates_url: undefined,
+    ubereats_url: undefined,
+    grubhub_url: undefined,
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "10:30 AM–3 PM"],
+      ["Tuesday", "10:30 AM–3 PM"],
+      ["Wednesday", "10:30 AM–3 PM"],
+      ["Thursday", "10:30 AM–3 PM"],
+      ["Friday", "10:30 AM–3 PM"],
+      ["Saturday", "Closed"],
+      ["Sunday", "Closed"],
+    ],
+    latitude: "37.7937236",
+    longitude: "-122.3978634",
+  },
+  {
+    id: "mixt-475-sansome-st-suite-100-s",
+    name: "Mixt",
+    description:
+      "Eco-minded local chain serving gourmet salads & sandwiches in a modern, counter-serve setting.",
+    street_address: "475 Sansome St Suite 100-s",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94111",
+    website_url: "https://www.mixt.com/",
+    menu_url: "https://www.mixt.com/menu/",
+    nutrition_url: "https://www.mixt.com/nutrition/",
+    takeout: true,
+    delivery: false,
+    doordash_url: undefined,
+    postmates_url: undefined,
+    ubereats_url: undefined,
+    grubhub_url: undefined,
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "10:30 AM–3 PM"],
+      ["Tuesday", "10:30 AM–3 PM"],
+      ["Wednesday", "10:30 AM–3 PM"],
+      ["Thursday", "10:30 AM–3 PM"],
+      ["Friday", "10:30 AM–3 PM"],
+      ["Saturday", "Closed"],
+      ["Sunday", "Closed"],
+    ],
+    latitude: "37.7945018",
+    longitude: "-122.4018229",
+  },
+  {
+    id: "mixt-3130-fillmore-st",
+    name: "Mixt",
+    description:
+      "Eco-minded local chain serving gourmet salads & sandwiches in a modern, counter-serve setting.",
+    street_address: "3130 Fillmore St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94123",
+    website_url: "https://www.mixt.com/",
+    menu_url: "https://www.mixt.com/menu/",
+    nutrition_url: "https://www.mixt.com/nutrition/",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/mixt-salads-san-francisco-963605/",
+    postmates_url:
+      "https://postmates.com/store/mixt-cow-hollow/F8zlK30dTJ2AZ8U5Gthfig",
+    ubereats_url:
+      "https://www.ubereats.com/neighborhood/cow-hollow-san-francisco-ca",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/mixt-3130-fillmore-st-san-francisco/2249884",
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "10:30 AM–9 PM"],
+      ["Tuesday", "10:30 AM–9 PM"],
+      ["Wednesday", "10:30 AM–9 PM"],
+      ["Thursday", "10:30 AM–9 PM"],
+      ["Friday", "10:30 AM–9 PM"],
+      ["Saturday", "11 AM–9 PM"],
+      ["Sunday", "11 AM–9 PM"],
+    ],
+    latitude: "37.7985834",
+    longitude: "-122.4356504",
+  },
+  {
+    id: "mr-charlies-432-sutter-st",
+    name: "Mr Charlie's",
+    description: "Plant-based fast-food restaurant.",
+    street_address: "432 Sutter St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94108",
+    website_url: "https://mrcharlies.co/",
+    menu_url: "https://mrcharlies.co/menu",
+    nutrition_url: "https://mrcharlies.co/nutrition",
+    takeout: true,
+    delivery: true,
+    doordash_url: undefined,
+    postmates_url:
+      "https://postmates.com/store/mr-charlies/llmMkiOmVsGBzFP6xTbyuQ",
+    ubereats_url:
+      "https://www.ubereats.com/store/mr-charlies/llmMkiOmVsGBzFP6xTbyuQ",
+    grubhub_url: undefined,
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "9 AM–10 PM"],
+      ["Tuesday", "9 AM–10 PM"],
+      ["Wednesday", "9 AM–10 PM"],
+      ["Thursday", "9 AM–10 PM"],
+      ["Friday", "9 AM–12 AM"],
+      ["Saturday", "9 AM–12 AM"],
+      ["Sunday", "9 AM–10 PM"],
+    ],
+    latitude: "37.78956791",
+    longitude: "-122.4072426",
+  },
+  {
+    id: "noahs-ny-bagels-100-bush-st-ste-102",
+    name: "Noah's NY Bagels",
+    description:
+      "Counter-serve chain specializing in bagels. Also sells breakfast sandwiches & pastries.",
+    street_address: "100 Bush St Ste 102",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94104",
+    website_url: "https://locations.noahs.com/us/ca/san-francisco/100-bush-st",
+    menu_url: "https://www.noahs.com/our-nosh/",
+    nutrition_url:
+      "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/noah%27s-new-york-bagels-san-francisco-921263/",
+    postmates_url:
+      "https://postmates.com/store/noahs-bagels-bush-battery/J6IZC5f2XQiYNeZhx6aL3w",
+    ubereats_url:
+      "https://www.ubereats.com/store/noahs-bagels-bush-battery/J6IZC5f2XQiYNeZhx6aL3w",
+    grubhub_url: undefined,
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "5 AM–2 PM"],
+      ["Tuesday", "5 AM–2 PM"],
+      ["Wednesday", "5 AM–2 PM"],
+      ["Thursday", "5 AM–2 PM"],
+      ["Friday", "5 AM–2 PM"],
+      ["Saturday", "6 AM–2 PM"],
+      ["Sunday", "7 AM–2 PM"],
+    ],
+    latitude: "37.7914629",
+    longitude: "-122.3998367",
+  },
+  {
+    id: "noahs-ny-bagels-1521-sloat-blvd",
+    name: "Noah's NY Bagels",
+    description:
+      "Counter-serve chain specializing in bagels. Also sells breakfast sandwiches & pastries.",
+    street_address: "1521 Sloat Blvd.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94132",
+    website_url:
+      "https://locations.noahs.com/us/ca/san-francisco/1521-sloat-blvd",
+    menu_url: "https://www.noahs.com/our-nosh/",
+    nutrition_url:
+      "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/noah's-new-york-bagels-san-francisco-921260/",
+    postmates_url: undefined,
+    ubereats_url: undefined,
+    grubhub_url: undefined,
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "5:30 AM–2 PM"],
+      ["Tuesday", "5:30 AM–2 PM"],
+      ["Wednesday", "5:30 AM–2 PM"],
+      ["Thursday", "5:30 AM–2 PM"],
+      ["Friday", "5:30 AM–2 PM"],
+      ["Saturday", "6 AM–2 PM"],
+      ["Sunday", "6 AM–2 PM"],
+    ],
+    latitude: "37.7324433",
+    longitude: "-122.4899402",
+  },
+  {
+    id: "noahs-ny-bagels-2300-16th-st-suite-250",
+    name: "Noah's NY Bagels",
+    description:
+      "Counter-serve chain specializing in bagels. Also sells breakfast sandwiches & pastries.",
+    street_address: "2300 16th St Suite 250",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94103",
+    website_url: "https://locations.noahs.com/us/ca/san-francisco/2300-16th-st",
+    menu_url: "https://www.noahs.com/our-nosh/",
+    nutrition_url:
+      "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/noah's-new-york-bagels-san-francisco-921257/",
+    postmates_url:
+      "https://postmates.com/store/noahs-bagels-potrero-hill/vvXAhskpU2CIdHLuCDFh9Q",
+    ubereats_url:
+      "https://www.ubereats.com/store/noahs-bagels-potrero-hill/vvXAhskpU2CIdHLuCDFh9Q",
+    grubhub_url: undefined,
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "5 AM–2 PM"],
+      ["Tuesday", "5 AM–2 PM"],
+      ["Wednesday", "5 AM–2 PM"],
+      ["Thursday", "5 AM–2 PM"],
+      ["Friday", "5 AM–2 PM"],
+      ["Saturday", "5:30 AM–2 PM"],
+      ["Sunday", "5:30 AM–2 PM"],
+    ],
+    latitude: "37.7666036",
+    longitude: "-122.4089178",
+  },
+  {
+    id: "panda-express-1480-fillmore-st",
+    name: "Panda Express",
+    description:
+      "Fast-food chain for Chinese standards, including some health-conscious options.",
+    street_address: "1480 Fillmore St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94115",
+    website_url: "https://www.pandaexpress.com/",
+    menu_url: "https://www.pandaexpress.com/?showMenu=true",
+    nutrition_url: "https://www.pandaexpress.com/nutritioninformation",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/panda-express-san-francisco-18209/",
+    postmates_url:
+      "https://postmates.com/brand-city/san-francisco-ca/panda-express",
+    ubereats_url:
+      "https://www.ubereats.com/store/panda-express-1480-fillmore-st/cJfFuhR0RM6NZ-T1gGJzQA",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/panda-express-1480-fillmore-st-san-francisco/322612",
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "9 AM–10:30 PM"],
+      ["Tuesday", "9 AM–10:30 PM"],
+      ["Wednesday", "9 AM–10:30 PM"],
+      ["Thursday", "9 AM–10:30 PM"],
+      ["Friday", "9 AM–10:30 PM"],
+      ["Saturday", "9:30 AM–10:30 PM"],
+      ["Sunday", "9:30 AM–10:30 PM"],
+    ],
+    latitude: "37.7831989",
+    longitude: "-122.4324298",
+  },
+  {
+    id: "panda-express-3251-20th-ave-250h",
+    name: "Panda Express",
+    description:
+      "Fast-food chain for Chinese standards, including some health-conscious options.",
+    street_address: "3251 20th Ave #250h",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94132",
+    website_url:
+      "https://www.pandaexpress.com/locations/ca/san-francisco/3251-20th-ave-250h",
+    menu_url: "https://www.pandaexpress.com/?showMenu=true",
+    nutrition_url: "https://www.pandaexpress.com/nutritioninformation",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/panda-express-san-francisco-980926/",
+    postmates_url:
+      "https://postmates.com/brand-city/san-francisco-ca/panda-express",
+    ubereats_url:
+      "https://www.ubereats.com/store/panda-express-3251-20th-ave-%23250h/tOaTqS2NTc-4rYcOpqulcA",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/panda-express-3251-20th-ave-san-francisco/7256648",
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "11 AM–8 PM"],
+      ["Tuesday", "11 AM–8 PM"],
+      ["Wednesday", "11 AM–8 PM"],
+      ["Thursday", "11 AM–8 PM"],
+      ["Friday", "11 AM–9 PM"],
+      ["Saturday", "11 AM–9 PM"],
+      ["Sunday", "11 AM–7 PM"],
+    ],
+    latitude: "37.7276883",
+    longitude: "-122.4766657",
+  },
+  {
+    id: "panda-express-865-market-st",
+    name: "Panda Express",
+    description:
+      "Fast-food chain for Chinese standards, including some health-conscious options.",
+    street_address: "865 Market St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94103",
+    website_url:
+      "https://www.pandaexpress.com/locations/ca/san-francisco/865-market-street",
+    menu_url: "https://www.pandaexpress.com/?showMenu=true",
+    nutrition_url: "https://www.pandaexpress.com/nutritioninformation",
+    takeout: true,
+    delivery: true,
+    doordash_url: undefined,
+    postmates_url: undefined,
+    ubereats_url: undefined,
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/panda-express-865-market-st-san-francisco/7232440",
+    other_delivery_url:
+      "https://www.seamless.com/menu/panda-express-865-market-st-san-francisco/7232440",
+    hours: [
+      ["Monday", "10 AM–8 PM"],
+      ["Tuesday", "10 AM–8 PM"],
+      ["Wednesday", "10 AM–8 PM"],
+      ["Thursday", "10 AM–8 PM"],
+      ["Friday", "10 AM–8 PM"],
+      ["Saturday", "10 AM–8 PM"],
+      ["Sunday", "10 AM–8 PM"],
+    ],
+    latitude: "37.783773",
+    longitude: "-122.4071764",
+  },
+  {
+    id: "panda-express-500-parnassus-ave",
+    name: "Panda Express",
+    description:
+      "Fast-food chain for Chinese standards, including some health-conscious options.",
+    street_address: "500 Parnassus Ave",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94143",
+    website_url:
+      "https://www.pandaexpress.com/locations/ca/san-francisco/500-parnassus-ave",
+    menu_url: "https://www.pandaexpress.com/?showMenu=true",
+    nutrition_url: "https://www.pandaexpress.com/nutritioninformation",
+    takeout: true,
+    delivery: true,
+    doordash_url: undefined,
+    postmates_url: undefined,
+    ubereats_url: undefined,
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/panda-express-500-parnassus-ave-san-francisco/7264704?pickup=true",
+    other_delivery_url:
+      "https://www.seamless.com/menu/panda-express-500-parnassus-ave-san-francisco/7264704?pickup=true",
+    hours: [
+      ["Monday", "10:30 AM–4:30 PM"],
+      ["Tuesday", "10:30 AM–4:30 PM"],
+      ["Wednesday", "10:30 AM–4:30 PM"],
+      ["Thursday", "10:30 AM–4:30 PM"],
+      ["Friday", "10:30 AM–4:30 PM"],
+      ["Saturday", "Closed"],
+      ["Sunday", "Closed"],
+    ],
+    latitude: "37.7635826",
+    longitude: "-122.4584476",
+  },
+  {
+    id: "panda-express-3801-3rd-st",
+    name: "Panda Express",
+    description:
+      "Fast-food chain for Chinese standards, including some health-conscious options.",
+    street_address: "3801 3rd St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94124",
+    website_url: "https://www.pandaexpress.com/",
+    menu_url: "https://www.pandaexpress.com/?showMenu=true",
+    nutrition_url: "https://www.pandaexpress.com/nutritioninformation",
+    takeout: true,
+    delivery: true,
+    doordash_url: undefined,
+    postmates_url: undefined,
+    ubereats_url: undefined,
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/panda-express-3801-3rd-st-san-francisco/6234008?delivery=true",
+    other_delivery_url:
+      "https://www.seamless.com/menu/panda-express-3801-3rd-st-san-francisco/6234008?delivery=true",
+    hours: [
+      ["Monday", "10 AM–8 PM"],
+      ["Tuesday", "10 AM–8 PM"],
+      ["Wednesday", "10 AM–8 PM"],
+      ["Thursday", "Closed"],
+      ["Friday", "10 AM–8 PM"],
+      ["Saturday", "10 AM–8 PM"],
+      ["Sunday", "10 AM–8 PM"],
+    ],
+    latitude: "37.741626",
+    longitude: "-122.3873771",
+  },
+  {
+    id: "papa-johns-pizza-750-cambon-dr-69",
+    name: "Papa John's Pizza",
+    description:
+      "Pizza take-out & delivery chain offering classic & specialty pizzas, plus wings, sides & desserts.",
+    street_address: "750 Cambon Dr #69",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94132",
+    website_url: "https://www.papajohns.com/",
+    menu_url: "https://www.papajohns.com/order/menu",
+    nutrition_url:
+      "https://www.papajohns.com/company/nutrition-allergen-information.html",
+    takeout: true,
+    delivery: false,
+    doordash_url: undefined,
+    postmates_url: undefined,
+    ubereats_url: undefined,
+    grubhub_url: undefined,
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "10:30 AM–11:30 PM"],
+      ["Tuesday", "10:30 AM–11:30 PM"],
+      ["Wednesday", "10:30 AM–11:30 PM"],
+      ["Thursday", "10:30 AM–11:30 PM"],
+      ["Friday", "10:30 AM–12 AM"],
+      ["Saturday", "10:30 AM–12 AM"],
+      ["Sunday", "10:30 AM–11:30 PM"],
+    ],
+    latitude: "37.7177096",
+    longitude: "-122.4739481",
+  },
+  {
+    id: "papa-johns-pizza-969-sutter-st",
+    name: "Papa Johns Pizza",
+    description:
+      "Pizza take-out & delivery chain offering classic & specialty pizzas, plus wings, sides & desserts.",
+    street_address: "969 Sutter St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94109",
+    website_url:
+      "https://locations.papajohns.com/united-states/ca/94109/san-francisco/969-sutter-st",
+    menu_url: "https://www.papajohns.com/order/menu",
+    nutrition_url:
+      "https://www.papajohns.com/company/nutrition-allergen-information.html",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/papa-johns-pizza-san-francisco-26013/",
+    postmates_url:
+      "https://postmates.com/brand-city/san-francisco-ca/papa-johns",
+    ubereats_url:
+      "https://www.ubereats.com/neighborhood/north-beach-san-francisco-ca",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/papa-johns-969-sutter-st-san-francisco/298028",
+    other_delivery_url:
+      "https://www.seamless.com/food/papa_johns_pizza/ca-san_francisco",
+    hours: [
+      ["Monday", "10 AM–1 AM"],
+      ["Tuesday", "10 AM–1 AM"],
+      ["Wednesday", "10 AM–1 AM"],
+      ["Thursday", "10 AM–1 AM"],
+      ["Friday", "10 AM–2:30 AM"],
+      ["Saturday", "10 AM–2:30 AM"],
+      ["Sunday", "10 AM–1 AM"],
+    ],
+    latitude: "37.788133",
+    longitude: "-122.4162759",
+  },
+  {
+    id: "pearls-deluxe-burgers-708-post-st",
+    name: "Pearl's Deluxe Burgers",
+    description:
+      "No-frills counter-serve joint for creatively topped beef, buffalo, turkey & vegetarian burgers.",
+    street_address: "708 Post St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94109",
+    website_url: "https://www.pearlsburgers.com/",
+    menu_url: "https://www.pearlsburgers.com/menu/",
+    nutrition_url: undefined,
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/pearl%27s-deluxe-burgers-san-francisco-23178083/",
+    postmates_url: undefined,
+    ubereats_url: undefined,
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/pearls-deluxe-burgers-708-post-street-san-francisco/3246273?pickup=true",
+    other_delivery_url:
+      "https://www.seamless.com/menu/pearls-deluxe-burgers-708-post-street-san-francisco/3246273?pickup=true",
+    hours: [
+      ["Monday", "11 AM–9 PM"],
+      ["Tuesday", "11 AM–9 PM"],
+      ["Wednesday", "11 AM–9 PM"],
+      ["Thursday", "11 AM–9 PM"],
+      ["Friday", "11 AM–10 PM"],
+      ["Saturday", "11 AM–10 PM"],
+      ["Sunday", "12–9 PM"],
+    ],
+    latitude: "38.15224934",
+    longitude: "-121.8866894",
+  },
+  {
+    id: "peasant-pies-cafe-catering-550-gene-friend-way",
+    name: "Peasant Pies Cafe & Catering",
+    description:
+      "Cheery, bright counter-serve place offering a variety of savory & sweet hand-held pies.",
+    street_address: "550 Gene Friend Way",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94158",
+    website_url: "https://www.peasantpies.com/",
+    menu_url: undefined,
+    nutrition_url:
+      "https://www.peasantpies.com/uploads/b/9bff6be0-3cd3-11ea-a066-9bdb7dbbcf14/peasant-pies-nutritional-info.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/peasant-pies-san-francisco-2931/",
+    postmates_url:
+      "https://postmates.com/store/peasant-pies-mission-bay/oKXediTbSwiaZzc2KUReRg",
+    ubereats_url:
+      "https://www.ubereats.com/store/peasant-pies-mission-bay/oKXediTbSwiaZzc2KUReRg",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/peasant-pies-cafe--catering-mission-bay-550-gene-friend-way-san-francisco/6774936",
+    other_delivery_url:
+      "https://www.seamless.com/menu/peasant-pies-cafe--catering-mission-bay-550-gene-friend-way-san-francisco/6774936",
+    hours: [
+      ["Monday", "7 AM–6:30 PM"],
+      ["Tuesday", "7 AM–6:30 PM"],
+      ["Wednesday", "7 AM–6:30 PM"],
+      ["Thursday", "7 AM–6:30 PM"],
+      ["Friday", "7 AM–6:30 PM"],
+      ["Saturday", "8:30 AM–1:30 PM"],
+      ["Sunday", "Closed"],
+    ],
+    latitude: "37.7690444",
+    longitude: "-122.3902335",
+  },
+  {
+    id: "peasant-pies-cafe-catering-1039-irving-st",
+    name: "Peasant Pies Cafe & Catering",
+    description:
+      "Cheery, bright counter-serve place offering a variety of savory & sweet hand-held pies.",
+    street_address: "1039 Irving St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94122",
+    website_url: "https://www.peasantpies.com/",
+    menu_url: undefined,
+    nutrition_url:
+      "https://www.peasantpies.com/uploads/b/9bff6be0-3cd3-11ea-a066-9bdb7dbbcf14/peasant-pies-nutritional-info.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/peasant-pies-san-francisco-297081/",
+    postmates_url: undefined,
+    ubereats_url: undefined,
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/peasant-pies-cafe--catering-1039-irving-st-san-francisco/7156560",
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "7 AM–6:30 PM"],
+      ["Tuesday", "7 AM–6:30 PM"],
+      ["Wednesday", "7 AM–6:30 PM"],
+      ["Thursday", "7 AM–6:30 PM"],
+      ["Friday", "7 AM–6:30 PM"],
+      ["Saturday", "8 AM–5:30 PM"],
+      ["Sunday", "9:30 AM–4:30 PM"],
+    ],
+    latitude: "37.7638101",
+    longitude: "-122.4691799",
+  },
+  {
+    id: "popeyes-louisiana-kitchen-890-geneva-ave",
+    name: "Popeyes Louisiana Kitchen",
+    description:
+      "Louisiana-inspired fast-food chain known for its spicy fried chicken, biscuits & sides.",
+    street_address: "890 Geneva Ave.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94112",
+    website_url: "https://www.popeyes.com/store-locator/store/restaurant_82440",
+    menu_url: "https://www.popeyes.com/explore-menu",
+    nutrition_url:
+      "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/popeyes-louisiana-kitchen-san-francisco-293629/",
+    postmates_url: "https://postmates.com/brand-city/san-francisco-ca/popeyes",
+    ubereats_url:
+      "https://www.ubereats.com/store/popeyes-890-geneva-ave/lUJCNfhmQBKuVIWMNwYoJQ",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/popeyes-890-geneva-ave-san-francisco/2334325",
+    hours: [
+      ["Monday", "10 AM–9:30 PM"],
+      ["Tuesday", "10 AM–9:30 PM"],
+      ["Wednesday", "10 AM–9:30 PM"],
+      ["Thursday", "10 AM–9:30 PM"],
+      ["Friday", "10 AM–9:30 PM"],
+      ["Saturday", "10 AM–9:30 PM"],
+      ["Sunday", "10 AM–9:30 PM"],
+    ],
+    latitude: "37.7165674",
+    longitude: "-122.4413323",
+  },
+  {
+    id: "popeyes-louisiana-kitchen-599-divisadero-st",
+    name: "Popeyes Louisiana Kitchen",
+    description:
+      "Louisiana-inspired fast-food chain known for its spicy fried chicken, biscuits & sides.",
+    street_address: "599 Divisadero St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94117",
+    website_url: "https://www.popeyes.com/store-locator/store/restaurant_82066",
+    menu_url: "https://www.popeyes.com/explore-menu",
+    nutrition_url: "https://www.popeyes.com/nutritional-information",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/popeyes-louisiana-kitchen-san-francisco-264683/",
+    postmates_url: "https://postmates.com/brand-city/san-francisco-ca/popeyes",
+    ubereats_url:
+      "https://www.ubereats.com/store/popeyes-599-divisadero-street/yg4mqTj4R3mzDFJHxmN4Hw",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/popeyes-599-divisadero-st-san-francisco/641909",
+    hours: [
+      ["Monday", "10 AM–10 PM"],
+      ["Tuesday", "10 AM–10 PM"],
+      ["Wednesday", "10 AM–10 PM"],
+      ["Thursday", "11 AM–12 AM"],
+      ["Friday", "11 AM–12 AM"],
+      ["Saturday", "11 AM–12 AM"],
+      ["Sunday", "10 AM–10 PM"],
+    ],
+    latitude: "37.7748622",
+    longitude: "-122.4380583",
+  },
+  {
+    id: "proper-food-116-montgomery-st",
+    name: "Proper Food",
+    description:
+      "Select sandwiches & other daytime eats are made with area-sourced ingredients at this take-out spot.",
+    street_address: "116 Montgomery St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94104",
+    website_url: "https://properfood.com/",
+    menu_url: "https://properfood.com/menu/",
+    nutrition_url:
+      "https://properfood.com/wp-content/uploads/2015/05/NUTRITION_allergen_SUMMER_SF_2021.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/proper-food-san-francisco-2374821/",
+    ubereats_url:
+      "https://www.ubereats.com/store/proper-food-100-montgomery-st/SjFkTFZxXA2sZatZcEJa2g",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/proper-food-116-montgomery-st-san-francisco/7470784",
+    other_delivery_url:
+      "https://www.trycaviar.com/store/proper-food-san-francisco-2374821/",
+    hours: [
+      ["Monday", "7 AM–4 PM"],
+      ["Tuesday", "7 AM–4 PM"],
+      ["Wednesday", "7 AM–4 PM"],
+      ["Thursday", "7 AM–4 PM"],
+      ["Friday", "7 AM–4 PM"],
+      ["Saturday", "Closed"],
+      ["Sunday", "Closed"],
+    ],
+    latitude: "37.7903812",
+    longitude: "-122.4020921",
+  },
+  {
+    id: "proper-food-350-california-st",
+    name: "Proper Food",
+    description:
+      "Select sandwiches & other daytime eats are made with area-sourced ingredients at this take-out spot.",
+    street_address: "350 California St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94104",
+    website_url: "https://properfood.com/",
+    menu_url: "https://properfood.com/menu/",
+    nutrition_url:
+      "https://properfood.com/wp-content/uploads/2015/05/NUTRITION_allergen_SUMMER_SF_2021.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/en-NZ/store/proper-food-san-francisco-2605986/",
+    postmates_url:
+      "https://postmates.com/store/proper-food-350-california-st/TxU7YNLhXJS_8txQdhs5MQ",
+    ubereats_url:
+      "https://www.ubereats.com/store/proper-food-350-california-st/TxU7YNLhXJS_8txQdhs5MQ",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/proper-food-350-california-st-san-francisco/7481832",
+    other_delivery_url:
+      "https://www.seamless.com/menu/proper-food-350-california-st-san-francisco/7481832",
+    hours: [
+      ["Monday", "8 AM–2:30 PM"],
+      ["Tuesday", "8 AM–2:30 PM"],
+      ["Wednesday", "8 AM–2:30 PM"],
+      ["Thursday", "8 AM–2:30 PM"],
+      ["Friday", "Closed"],
+      ["Saturday", "Closed"],
+      ["Sunday", "Closed"],
+    ],
+    latitude: "37.7932762",
+    longitude: "-122.4007398",
+  },
+  {
+    id: "proper-food-100-1st-st",
+    name: "Proper Food",
+    description:
+      "Select sandwiches & other daytime eats are made with area-sourced ingredients at this take-out spot.",
+    street_address: "100 1st St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94105",
+    website_url: "https://properfood.com/",
+    menu_url: "https://properfood.com/menu/",
+    nutrition_url:
+      "https://properfood.com/wp-content/uploads/2015/05/NUTRITION_allergen_SUMMER_SF_2021.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/proper-food-san-francisco-2323419/",
+    postmates_url:
+      "https://postmates.com/store/proper-food-100-first-street/4XsbBa-VXWa7MbpQxrq3aQ",
+    ubereats_url:
+      "https://www.ubereats.com/store/proper-food-100-first-street/4XsbBa-VXWa7MbpQxrq3aQ",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/proper-food-100-1st-st-san-francisco/7483208",
+    other_delivery_url:
+      "https://www.seamless.com/menu/proper-food-100-1st-st-san-francisco/7483208",
+    hours: [
+      ["Monday", "7 AM–5 PM"],
+      ["Tuesday", "7 AM–5 PM"],
+      ["Wednesday", "7 AM–5 PM"],
+      ["Thursday", "7 AM–5 PM"],
+      ["Friday", "7 AM–4 PM"],
+      ["Saturday", "Closed"],
+      ["Sunday", "Closed"],
+    ],
+    latitude: "37.7892503",
+    longitude: "-122.3980017",
+  },
+  {
+    id: "proper-food-655-montgomery-st",
+    name: "Proper Food",
+    description:
+      "Select sandwiches & other daytime eats are made with area-sourced ingredients at this take-out spot.",
+    street_address: "655 Montgomery St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94111",
+    website_url: "https://properfood.com/",
+    menu_url: "https://properfood.com/menu/",
+    nutrition_url:
+      "https://properfood.com/wp-content/uploads/2015/05/NUTRITION_allergen_SUMMER_SF_2021.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/proper-food-san-francisco-640278/",
+    other_delivery_url:
+      "https://www.seamless.com/menu/proper-food-655-montgomery-st-san-francisco/7481816",
+    hours: [
+      ["Monday", "7:30 AM–2:30 PM"],
+      ["Tuesday", "7:30 AM–2:30 PM"],
+      ["Wednesday", "7:30 AM–2:30 PM"],
+      ["Thursday", "7:30 AM–2:30 PM"],
+      ["Friday", "7:30 AM–2:30 PM"],
+      ["Saturday", "Closed"],
+      ["Sunday", "Closed"],
+    ],
+    latitude: "37.7952299",
+    longitude: "-122.4033824",
+  },
+  {
+    id: "proper-food-45-fremont-st",
+    name: "Proper Food",
+    description:
+      "Select sandwiches & other daytime eats are made with area-sourced ingredients at this take-out spot.",
+    street_address: "45 Fremont St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94105",
+    website_url: "https://properfood.com/",
+    menu_url: "https://properfood.com/menu/",
+    nutrition_url:
+      "https://properfood.com/wp-content/uploads/2015/05/NUTRITION_allergen_SUMMER_SF_2021.pdf",
+    takeout: true,
+    delivery: false,
+    hours: [
+      ["Monday", "7:30 AM–2:30 PM"],
+      ["Tuesday", "7:30 AM–2:30 PM"],
+      ["Wednesday", "7:30 AM–2:30 PM"],
+      ["Thursday", "7:30 AM–2:30 PM"],
+      ["Friday", "7:30 AM–2:30 PM"],
+      ["Saturday", "Closed"],
+      ["Sunday", "Closed"],
+    ],
+    latitude: "37.7912489",
+    longitude: "-122.3971488",
+  },
+  {
+    id: "proper-food-180-howard-st",
+    name: "Proper Food",
+    description:
+      "Select sandwiches & other daytime eats are made with area-sourced ingredients at this take-out spot.",
+    street_address: "180 Howard St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94105",
+    website_url: "https://properfood.com/",
+    menu_url: "https://properfood.com/menu/",
+    nutrition_url:
+      "https://properfood.com/wp-content/uploads/2015/05/NUTRITION_allergen_SUMMER_SF_2021.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/proper-food-san-francisco-2375852/",
+    postmates_url:
+      "https://postmates.com/store/proper-food-180-howard-st/aomYj5maWx6bdRFiVashdA",
+    ubereats_url:
+      "https://www.ubereats.com/store/proper-food-180-howard-st/aomYj5maWx6bdRFiVashdA",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/proper-food-180-howard-st-san-francisco/7481824",
+    hours: [
+      ["Monday", "8 AM–2:30 PM"],
+      ["Tuesday", "8 AM–2:30 PM"],
+      ["Wednesday", "8 AM–2:30 PM"],
+      ["Thursday", "8 AM–2:30 PM"],
+      ["Friday", "8 AM–2:30 PM"],
+      ["Saturday", "Closed"],
+      ["Sunday", "Closed"],
+    ],
+    latitude: "37.7908188",
+    longitude: "-122.3933928",
+  },
+  {
+    id: "proper-food-555-california-st",
+    name: "Proper Food",
+    description:
+      "Select sandwiches & other daytime eats are made with area-sourced ingredients at this take-out spot.",
+    street_address: "555 California St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94104",
+    website_url: "https://properfood.com/",
+    menu_url: "https://properfood.com/menu/",
+    nutrition_url:
+      "https://properfood.com/wp-content/uploads/2015/05/NUTRITION_allergen_SUMMER_SF_2021.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/proper-food-san-francisco-681801/",
+    ubereats_url:
+      "https://www.ubereats.com/store/proper-food-555-california-st/HOmKdN9lW0i15VC6kFOmAQ",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/proper-food-555-california-st-san-francisco/7474928",
+    other_delivery_url:
+      "https://www.seamless.com/menu/proper-food-555-california-st-san-francisco/7474928",
+    hours: [
+      ["Monday", "8 AM–2:30 PM"],
+      ["Tuesday", "8 AM–2:30 PM"],
+      ["Wednesday", "8 AM–2:30 PM"],
+      ["Thursday", "8 AM–2:30 PM"],
+      ["Friday", "8 AM–1:30 PM"],
+      ["Saturday", "Closed"],
+      ["Sunday", "Closed"],
+    ],
+    latitude: "37.7920903",
+    longitude: "-122.4036761",
+  },
+  {
+    id: "proper-food-588-mission-bay-blvd-n",
+    name: "Proper Food",
+    description:
+      "Select sandwiches & other daytime eats are made with area-sourced ingredients at this take-out spot.",
+    street_address: "588 Mission Bay Boulevard North",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94158",
+    website_url: "https://properfood.com/",
+    menu_url: "https://properfood.com/menu/",
+    nutrition_url:
+      "https://properfood.com/wp-content/uploads/2015/05/NUTRITION_allergen_SUMMER_SF_2021.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url: "https://www.doordash.com/business/proper-food-155813/",
+    postmates_url:
+      "https://postmates.com/store/proper-food-588-mission/NicagNh-U1CEI-bb21qrDw",
+    ubereats_url:
+      "https://www.ubereats.com/store/proper-food-588-mission/NicagNh-U1CEI-bb21qrDw",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/proper-food-588-mission-bay-blvd-n-san-francisco/7475184",
+    other_delivery_url:
+      "https://www.seamless.com/menu/proper-food-588-mission-bay-blvd-n-san-francisco/7475184",
+    hours: [
+      ["Monday", "7 AM–7 PM"],
+      ["Tuesday", "7 AM–7 PM"],
+      ["Wednesday", "7 AM–7 PM"],
+      ["Thursday", "7 AM–7 PM"],
+      ["Friday", "7 AM–7 PM"],
+      ["Saturday", "Closed"],
+      ["Sunday", "Closed"],
+    ],
+    latitude: "37.7711384",
+    longitude: "-122.3910995",
+  },
+  {
+    id: "proper-food-525-market-st",
+    name: "Proper Food",
+    description:
+      "Select sandwiches & other daytime eats are made with area-sourced ingredients at this take-out spot.",
+    street_address: "525 Market St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94105",
+    website_url: "https://properfood.com/",
+    menu_url: "https://properfood.com/menu/",
+    nutrition_url:
+      "https://properfood.com/wp-content/uploads/2015/05/NUTRITION_allergen_SUMMER_SF_2021.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/proper-food-san-francisco-639561/",
+    postmates_url:
+      "https://postmates.com/store/proper-food-525-market-st/zGvhLNQkVfOVeAgVvNJLZA",
+    ubereats_url:
+      "https://www.ubereats.com/store/proper-food-525-market-st/zGvhLNQkVfOVeAgVvNJLZA",
+    other_delivery_url:
+      "https://www.trycaviar.com/store/proper-food-san-francisco-639561/",
+    hours: [
+      ["Monday", "8 AM–2:30 PM"],
+      ["Tuesday", "8 AM–2:30 PM"],
+      ["Wednesday", "8 AM–2:30 PM"],
+      ["Thursday", "8 AM–2:30 PM"],
+      ["Friday", "Closed"],
+      ["Saturday", "Closed"],
+      ["Sunday", "Closed"],
+    ],
+    latitude: "37.7905181",
+    longitude: "-122.3995056",
+  },
+  {
+    id: "proper-food-35-spear-st",
+    name: "Proper Food",
+    description:
+      "Select sandwiches & other daytime eats are made with area-sourced ingredients at this take-out spot.",
+    street_address: "35 Spear St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94105",
+    website_url: "https://properfood.com/",
+    menu_url: "https://properfood.com/menu/",
+    nutrition_url:
+      "https://properfood.com/wp-content/uploads/2015/05/NUTRITION_allergen_SUMMER_SF_2021.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/proper-food-san-francisco-2605934/",
+    other_delivery_url:
+      "https://www.trycaviar.com/store/proper-food-san-francisco-2605934/",
+    hours: [
+      ["Monday", "8 AM–2:30 PM"],
+      ["Tuesday", "8 AM–2:30 PM"],
+      ["Wednesday", "8 AM–2:30 PM"],
+      ["Thursday", "8 AM–2:30 PM"],
+      ["Friday", "Closed"],
+      ["Saturday", "Closed"],
+      ["Sunday", "Closed"],
+    ],
+    latitude: "37.7934766",
+    longitude: "-122.3949946",
+  },
+  {
+    id: "rosamunde-sausage-grill-2832-mission-st",
+    name: "Rosamunde Sausage Grill",
+    description:
+      "Hip hole-in-the-wall spot for a variety of housemade grilled sausages on buns, plus craft beer.",
+    street_address: "2832 Mission St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94110",
+    website_url: "https://www.rosamundesausagegrill.com/",
+    menu_url: "https://www.rosamundesausagegrill.com/menu.html",
+    nutrition_url: "https://www.rosamundesausagegrill.com/allergen-chart.html",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/rosamunde-sausage-grill-san-francisco-6921/",
+    postmates_url:
+      "https://postmates.com/store/rosamunde-sausage-grill-mission/IAM1vAavT_2c5VBzdX7N-w",
+    ubereats_url:
+      "https://www.ubereats.com/store/rosamunde-sausage-grill-mission/IAM1vAavT_2c5VBzdX7N-w",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/rosamunde-sausage-grill-2832-mission-st-san-francisco/80633",
+    other_delivery_url:
+      "https://www.seamless.com/menu/rosamunde-sausage-grill-2832-mission-st-san-francisco/80633",
+    hours: [
+      ["Monday", "11:30 AM–9 PM"],
+      ["Tuesday", "11:30 AM–10 PM"],
+      ["Wednesday", "11:30 AM–9 PM"],
+      ["Thursday", "11:30 AM–10 PM"],
+      ["Friday", "11:30 AM–11 PM"],
+      ["Saturday", "11:30 AM–10 PM"],
+      ["Sunday", "11:30 AM–9 PM"],
+    ],
+    latitude: "38.28918599",
+    longitude: "-122.5914167",
+  },
+  {
+    id: "shake-shack-845-market-st",
+    name: "Shake Shack",
+    description:
+      "Hip, counter-serve chain for gourmet takes on fast-food classics like burgers & frozen custard.",
+    street_address: "845 Market St. Suite 8",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94103",
+    website_url: "https://shakeshack.com/location/san-francisco-centre-ca",
+    nutrition_url:
+      "https://shakeshack.com/sites/default/files/2023-07/SS%20Master%20Nutrition%206.20%20%26%207.11.23.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/shake-shack-san-francisco-1840891/",
+    postmates_url:
+      "https://postmates.com/store/shake-shack-san-francisco-centre/jj_Fs4JhRZqTgj7m5hThPQ",
+    ubereats_url:
+      "https://www.ubereats.com/store/shake-shack-san-francisco-centre/jj_Fs4JhRZqTgj7m5hThPQ",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/shake-shack-845-market-st-ste-8-san-francisco/2793979",
+    other_delivery_url:
+      "https://www.seamless.com/menu/shake-shack-845-market-st-ste-8-san-francisco/2793979",
+    hours: [
+      ["Monday", "10 AM–8 PM"],
+      ["Tuesday", "10 AM–8 PM"],
+      ["Wednesday", "10 AM–8 PM"],
+      ["Thursday", "10 AM–8 PM"],
+      ["Friday", "10 AM–8 PM"],
+      ["Saturday", "10 AM–8 PM"],
+      ["Sunday", "11 AM–6 PM"],
+    ],
+    latitude: "37.73627348",
+    longitude: "-122.7619306",
+  },
+  {
+    id: "shake-shack-3251-20th-ave",
+    name: "Shake Shack",
+    description:
+      "Hip, counter-serve chain for gourmet takes on fast-food classics like burgers & frozen custard.",
+    street_address: "3251 20th Ave",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94132",
+    website_url: "https://shakeshack.com/location/stonestown-galleria-ca",
+    menu_url: undefined,
+    nutrition_url:
+      "https://shakeshack.com/sites/default/files/2023-07/SS%20Master%20Nutrition%206.20%20%26%207.11.23.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/shake-shack-san-francisco-24455065/",
+    postmates_url:
+      "https://postmates.com/brand-city/san-francisco-ca/shake-shack",
+    ubereats_url: undefined,
+    grubhub_url: undefined,
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "10:30 AM–10 PM"],
+      ["Tuesday", "10:30 AM–10 PM"],
+      ["Wednesday", "10:30 AM–10 PM"],
+      ["Thursday", "10:30 AM–10 PM"],
+      ["Friday", "10:30 AM–10 PM"],
+      ["Saturday", "10:30 AM–10 PM"],
+      ["Sunday", "10:30 AM–10 PM"],
+    ],
+    latitude: "37.7273999",
+    longitude: "-122.4763802",
+  },
+  {
+    id: "starbird-chicken-60-morris-st",
+    name: "Starbird Chicken",
+    description: "Crispy fried chicken fast-food spot with salad options.",
+    street_address: "60 Morris St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94107",
+    website_url: "https://www.starbirdchicken.com/",
+    menu_url: "https://www.starbirdchicken.com/starbird-chicken-menu",
+    nutrition_url:
+      "https://www.dropbox.com/scl/fi/qux328kdywb7j98ueiiob/Starbird-Nutritionals-Updated-April-30-2024.pdf?rlkey=ye7by9nj1426n1ixj42sj2u5l&e=1&dl=0",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/starbird-chicken-san-francisco-568286/",
+    postmates_url:
+      "https://postmates.com/store/starbird-chicken-san-francisco/BMHJyyolTOmDeX8p1HIbuw",
+    ubereats_url: undefined,
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/starbird-chicken-60-morris-st-san-francisco/3146055",
+    other_delivery_url:
+      "https://www.seamless.com/menu/starbird-chicken-60-morris-st-san-francisco/3146055",
+    hours: [
+      ["Monday", "10:30 AM–10 PM"],
+      ["Tuesday", "10:30 AM–10 PM"],
+      ["Wednesday", "10:30 AM–10 PM"],
+      ["Thursday", "10:30 AM–10 PM"],
+      ["Friday", "10:30 AM–10:30 PM"],
+      ["Saturday", "10:30 AM–10:30 PM"],
+      ["Sunday", "10:30 AM–9 PM"],
+    ],
+    latitude: "37.7814995",
+    longitude: "-122.404577",
+  },
+  {
+    id: "starbucks-201-spear-st",
+    name: "Starbucks",
+    description:
+      "Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",
+    street_address: "201 Spear St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94105",
+    website_url: "https://www.starbucks.com/store-locator/store/18421/",
+    menu_url: "https://www.starbucks.com/menu",
+    nutrition_url:
+      "https://stories.starbucks.com/uploads/2019/01/nutrition-1.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/en-US/store-next/starbucks-san-francisco-24586297",
+    postmates_url:
+      "https://postmates.com/brand-city/san-francisco-ca/starbucks",
+    ubereats_url: undefined,
+    grubhub_url: undefined,
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "4:30 AM–5 PM"],
+      ["Tuesday", "4:30 AM–5 PM"],
+      ["Wednesday", "4:30 AM–5 PM"],
+      ["Thursday", "4:30 AM–5 PM"],
+      ["Friday", "4:30 AM–5 PM"],
+      ["Saturday", "6 AM–2 PM"],
+      ["Sunday", "Closed"],
+    ],
+    latitude: "37.7913439",
+    longitude: "-122.3922382",
+  },
+  {
+    id: "subway-408-montgomery-st",
+    name: "Subway",
+    description:
+      "Casual counter-serve chain for build-your-own sandwiches & salads, with health-conscious options.",
+    street_address: "408 Montgomery St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94104",
+    website_url:
+      "https://restaurants.subway.com/united-states/ca/san-francisco/408-montgomery-street",
+    menu_url: "https://www.subway.com/en-us/menunutrition/menu",
+    nutrition_url: "https://www.subway.com/en-us/menunutrition/nutrition",
+    takeout: true,
+    delivery: true,
+    doordash_url: "https://www.doordash.com/store/subway-san-francisco-177027/",
+    postmates_url:
+      "https://postmates.com/store/subway-408-montgomery-st/jl6Hnx-qRGO--40LLl8NUQ",
+    ubereats_url:
+      "https://www.ubereats.com/store/subway-408-montgomery-st/jl6Hnx-qRGO--40LLl8NUQ",
+    grubhub_url: undefined,
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "8:30 AM–6 PM"],
+      ["Tuesday", "8:30 AM–6 PM"],
+      ["Wednesday", "8:30 AM–6 PM"],
+      ["Thursday", "8:30 AM–6 PM"],
+      ["Friday", "8:30 AM–6 PM"],
+      ["Saturday", "Closed"],
+      ["Sunday", "Closed"],
+    ],
+    latitude: "37.7932582",
+    longitude: "-122.4026574",
+  },
+  {
+    id: "subway-200-pine-st-suite-140",
+    name: "Subway",
+    description:
+      "Casual counter-serve chain for build-your-own sandwiches & salads, with health-conscious options.",
+    street_address: "200 Pine St Suite 140",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94104",
+    website_url:
+      "https://restaurants.subway.com/united-states/ca/san-francisco/200-pine-st",
+    menu_url: "https://www.subway.com/en-us/menunutrition/menu",
+    nutrition_url: "https://www.subway.com/en-us/menunutrition/nutrition",
+    takeout: true,
+    delivery: true,
+    doordash_url: undefined,
+    postmates_url: undefined,
+    ubereats_url:
+      "https://www.ubereats.com/store/subway-200-pine-st/qdeqiadbQwuO0aiW08PHTA",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/subway-200-pine-st-san-francisco/1061643",
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "9 AM–6 PM"],
+      ["Tuesday", "9 AM–6 PM"],
+      ["Wednesday", "9 AM–6 PM"],
+      ["Thursday", "9 AM–6 PM"],
+      ["Friday", "9 AM–6 PM"],
+      ["Saturday", "Closed"],
+      ["Sunday", "Closed"],
+    ],
+    latitude: "37.7924114",
+    longitude: "-122.4000589",
+  },
+  {
+    id: "subway-5650-geary-blvd",
+    name: "Subway",
+    description:
+      "Casual counter-serve chain for build-your-own sandwiches & salads, with health-conscious options.",
+    street_address: "5650 Geary Blvd.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94121",
+    website_url:
+      "https://restaurants.subway.com/united-states/ca/san-francisco/5650-geary-blvd",
+    menu_url: "https://www.subway.com/en-us/menunutrition/menu",
+    nutrition_url: "https://www.subway.com/en-us/menunutrition/nutrition",
+    takeout: true,
+    delivery: false,
+    doordash_url: undefined,
+    postmates_url: undefined,
+    ubereats_url: undefined,
+    grubhub_url: undefined,
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "9 AM–8 PM"],
+      ["Tuesday", "9 AM–8 PM"],
+      ["Wednesday", "9 AM–8 PM"],
+      ["Thursday", "9 AM–8 PM"],
+      ["Friday", "9 AM–8 PM"],
+      ["Saturday", "10 AM–7 PM"],
+      ["Sunday", "10 AM–7 PM"],
+    ],
+    latitude: "37.7805183",
+    longitude: "-122.4802609",
+  },
+  {
+    id: "subway-3801-3rd-st-suite-310",
+    name: "Subway",
+    description:
+      "Casual counter-serve chain for build-your-own sandwiches & salads, with health-conscious options.",
+    street_address: "3801 3rd St Suite 310",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94124",
+    website_url:
+      "https://restaurants.subway.com/united-states/ca/san-francisco/3801-3rd-st",
+    menu_url: "https://www.subway.com/en-us/menunutrition/menu",
+    nutrition_url: "https://www.subway.com/en-us/menunutrition/nutrition",
+    takeout: true,
+    delivery: false,
+    doordash_url: undefined,
+    postmates_url: undefined,
+    ubereats_url: undefined,
+    grubhub_url: undefined,
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "7 AM–9 PM"],
+      ["Tuesday", "7 AM–9 PM"],
+      ["Wednesday", "7 AM–9 PM"],
+      ["Thursday", "7 AM–9 PM"],
+      ["Friday", "7 AM–9 PM"],
+      ["Saturday", "8 AM–8 PM"],
+      ["Sunday", "8 AM–8 PM"],
+    ],
+    latitude: "37.7416628",
+    longitude: "-122.387259",
+  },
+  {
+    id: "subway-3911-alemany-blvd",
+    name: "Subway",
+    description:
+      "Casual counter-serve chain for build-your-own sandwiches & salads, with health-conscious options.",
+    street_address: "3911 Alemany Blvd Suite 1004",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94132",
+    website_url:
+      "https://restaurants.subway.com/united-states/ca/san-francisco/3911-alemany-blvd",
+    menu_url: "https://www.subway.com/en-us/menunutrition/menu",
+    nutrition_url: "https://www.subway.com/en-us/menunutrition/nutrition",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/en-NZ/store/subway-san-francisco-293538/",
+    postmates_url:
+      "https://postmates.com/store/subway-3911-alemany-blvd/dpwcZ3d5R2WBF4zTv5pybw",
+    ubereats_url:
+      "https://www.ubereats.com/store/subway-3911-alemany-blvd/dpwcZ3d5R2WBF4zTv5pybw",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/subway-3911-alemany-blvd-san-francisco/1064898",
+    other_delivery_url:
+      "https://www.seamless.com/menu/subway-3911-alemany-blvd-san-francisco/1064898",
+    hours: [
+      ["Monday", "7 AM–10 PM"],
+      ["Tuesday", "7 AM–10 PM"],
+      ["Wednesday", "7 AM–10 PM"],
+      ["Thursday", "7 AM–10 PM"],
+      ["Friday", "7 AM–10 PM"],
+      ["Saturday", "9 AM–9 PM"],
+      ["Sunday", "9 AM–9 PM"],
+    ],
+    latitude: "37.7109762",
+    longitude: "-122.4669587",
+  },
+  {
+    id: "subway-750-font-blvd",
+    name: "Subway",
+    description:
+      "Casual counter-serve chain for build-your-own sandwiches & salads, with health-conscious options.",
+    street_address: "750 Font Blvd",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94132",
+    website_url:
+      "https://restaurants.subway.com/united-states/ca/san-francisco/750-font-blvd",
+    menu_url: "https://www.subway.com/en-us/menunutrition/menu",
+    nutrition_url: "https://www.subway.com/en-us/menunutrition/nutrition",
+    takeout: true,
+    delivery: true,
+    doordash_url: "https://www.doordash.com/store/subway-san-francisco-293689/",
+    postmates_url:
+      "https://postmates.com/store/subway-village-at-centennial-square-750-font-blvd/TShf1VoDUbm9h3QK4Fr52Q",
+    ubereats_url:
+      "https://www.ubereats.com/store/subway-village-at-centennial-square-750-font-blvd/TShf1VoDUbm9h3QK4Fr52Q",
+    hours: [
+      ["Monday", "7 AM–11 PM"],
+      ["Tuesday", "7 AM–11 PM"],
+      ["Wednesday", "7 AM–11 PM"],
+      ["Thursday", "7 AM–11 PM"],
+      ["Friday", "7 AM–11 PM"],
+      ["Saturday", "9 AM–9 PM"],
+      ["Sunday", "9 AM–9 PM"],
+    ],
+    latitude: "37.7232229",
+    longitude: "-122.4821767",
+  },
+  {
+    id: "subway-1501b-sloat-blvd",
+    name: "Subway",
+    description:
+      "Casual counter-serve chain for build-your-own sandwiches & salads, with health-conscious options.",
+    street_address: "1501B Sloat Blvd.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94132",
+    website_url:
+      "https://restaurants.subway.com/united-states/ca/san-francisco/1501b-sloat-blvd",
+    menu_url: "https://www.subway.com/en-us/menunutrition/menu",
+    nutrition_url: "https://www.subway.com/en-us/menunutrition/nutrition",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/fr-CA/en-AU/store/subway-san-francisco-2466109/",
+    postmates_url: "https://postmates.com/brand-city/san-francisco-ca/subway",
+    hours: [
+      ["Monday", "9 AM–9 PM"],
+      ["Tuesday", "9 AM–9 PM"],
+      ["Wednesday", "9 AM–9 PM"],
+      ["Thursday", "9 AM–9 PM"],
+      ["Friday", "9 AM–9 PM"],
+      ["Saturday", "10 AM–9 PM"],
+      ["Sunday", "10 AM–9 PM"],
+    ],
+    latitude: "37.7338587",
+    longitude: "-122.4893161",
+  },
+  {
+    id: "subway-2599-san-bruno-ave",
+    name: "Subway",
+    description:
+      "Casual counter-serve chain for build-your-own sandwiches & salads, with health-conscious options.",
+    street_address: "2599 San Bruno Ave",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94134",
+    website_url:
+      "https://restaurants.subway.com/united-states/ca/san-francisco/2599-san-bruno-ave",
+    menu_url: "https://www.subway.com/en-us/menunutrition/menu",
+    nutrition_url: "https://www.subway.com/en-us/menunutrition/nutrition",
+    takeout: true,
+    delivery: true,
+    doordash_url: "https://www.doordash.com/store/subway-san-francisco-293534/",
+    postmates_url:
+      "https://postmates.com/store/subway-2599-san-bruno-ave/alaxdto4TEmW57MfJPKVvA",
+    ubereats_url:
+      "https://www.ubereats.com/store/subway-2599-san-bruno-ave/alaxdto4TEmW57MfJPKVvA",
+    hours: [
+      ["Monday", "7 AM–9:30 PM"],
+      ["Tuesday", "7 AM–9:30 PM"],
+      ["Wednesday", "7 AM–9:30 PM"],
+      ["Thursday", "7 AM–9:30 PM"],
+      ["Friday", "7 AM–9:30 PM"],
+      ["Saturday", "9 AM–9 PM"],
+      ["Sunday", "9 AM–9 PM"],
+    ],
+    latitude: "37.7290226",
+    longitude: "-122.403957",
+  },
+  {
+    id: "subway-500-parnassus-ave",
+    name: "Subway",
+    description:
+      "Casual counter-serve chain for build-your-own sandwiches & salads, with health-conscious options.",
+    street_address: "500 Parnassus Ave level b1 suite",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94143",
+    website_url:
+      "https://restaurants.subway.com/united-states/ca/san-francisco/500-parnassus-ave",
+    menu_url: "https://www.subway.com/en-us/menunutrition/menu",
+    nutrition_url: "https://www.subway.com/en-us/menunutrition/nutrition",
+    takeout: true,
+    delivery: true,
+    doordash_url: "https://www.doordash.com/store/subway-san-francisco-587216/",
+    postmates_url:
+      "https://postmates.com/store/subway-500-parnassus-avenue-levwel-b1/DZPHwEV1TB6qqrQnifcGaQ",
+    ubereats_url:
+      "https://www.ubereats.com/store/subway-500-parnassus-avenue-levwel-b1/DZPHwEV1TB6qqrQnifcGaQ",
+    hours: [
+      ["Monday", "7:30 AM–9 PM"],
+      ["Tuesday", "7:30 AM–9 PM"],
+      ["Wednesday", "7:30 AM–9 PM"],
+      ["Thursday", "7:30 AM–9 PM"],
+      ["Friday", "7:30 AM–9 PM"],
+      ["Saturday", "8 AM–8 PM"],
+      ["Sunday", "8 AM–8 PM"],
+    ],
+    latitude: "37.7636546",
+    longitude: "-122.4585101",
+  },
+  {
+    id: "taco-bell-4285-mission-st",
+    name: "Taco Bell",
+    description:
+      "Fast-food chain serving Mexican-inspired fare such as tacos, quesadillas & nachos.",
+    street_address: "4285 Mission St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94112",
+    website_url:
+      "https://locations.tacobell.com/ca/san-francisco/4285-mission-st-.html",
+    menu_url: "https://www.tacobell.com/food",
+    nutrition_url: "https://www.tacobell.com/nutrition/info",
+    takeout: true,
+    delivery: true,
+    postmates_url:
+      "https://postmates.com/store/taco-bell-4285-mission-st/qPBphi_ZQsS5BR6detistw",
+    hours: [
+      ["Monday", "10:30 AM–10 PM"],
+      ["Tuesday", "10:30 AM–10 PM"],
+      ["Wednesday", "10:30 AM–10 PM"],
+      ["Thursday", "10:30 AM–10 PM"],
+      ["Friday", "10:30 AM–10 PM"],
+      ["Saturday", "10:30 AM–10 PM"],
+      ["Sunday", "10:30 AM–10 PM"],
+    ],
+    latitude: "37.729023",
+    longitude: "-122.4307637",
+  },
+  {
+    id: "taco-bell-1150-taraval-st",
+    name: "Taco Bell",
+    description:
+      "Fast-food chain serving Mexican-inspired fare such as tacos, quesadillas & nachos.",
+    street_address: "1150 Taraval St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94116",
+    website_url:
+      "https://locations.tacobell.com/ca/san-francisco/1150-taraval-street.html",
+    menu_url: "https://www.tacobell.com/food",
+    nutrition_url: "https://www.tacobell.com/nutrition/info",
+    takeout: true,
+    delivery: false,
+    hours: [
+      ["Monday", "10:30 AM–10 PM"],
+      ["Tuesday", "10:30 AM–10 PM"],
+      ["Wednesday", "10:30 AM–10 PM"],
+      ["Thursday", "10:30 AM–10 PM"],
+      ["Friday", "10:30 AM–10 PM"],
+      ["Saturday", "10:30 AM–10 PM"],
+      ["Sunday", "10:30 AM–10 PM"],
+    ],
+    latitude: "37.7431215",
+    longitude: "-122.4787965",
+  },
+  {
+    id: "taco-bell-4150-geary-blvd",
+    name: "Taco Bell",
+    description:
+      "Fast-food chain serving Mexican-inspired fare such as tacos, quesadillas & nachos.",
+    street_address: "4150 Geary Blvd",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94118",
+    website_url:
+      "https://locations.tacobell.com/ca/san-francisco/4150-geary-boulevard.html",
+    menu_url: "https://www.tacobell.com/food",
+    nutrition_url: "https://www.tacobell.com/nutrition/info",
+    takeout: true,
+    delivery: true,
+    postmates_url:
+      "https://postmates.com/store/taco-bell-4150-geary-boulevard/r9HQwpPBT2ip6DqjYl4TcQ",
+    ubereats_url:
+      "https://www.ubereats.com/store/taco-bell-4150-geary-boulevard/r9HQwpPBT2ip6DqjYl4TcQ",
+    hours: [
+      ["Monday", "10:30 AM–10 PM"],
+      ["Tuesday", "10:30 AM–10 PM"],
+      ["Wednesday", "10:30 AM–10 PM"],
+      ["Thursday", "10:30 AM–10 PM"],
+      ["Friday", "10:30 AM–10 PM"],
+      ["Saturday", "10:30 AM–10 PM"],
+      ["Sunday", "10:30 AM–10 PM"],
+    ],
+    latitude: "37.7812544",
+    longitude: "-122.4641351",
+  },
+  {
+    id: "taco-bell-710-3rd-st",
+    name: "Taco Bell",
+    description:
+      "Fast-food chain serving Mexican-inspired fare such as tacos, quesadillas & nachos.",
+    street_address: "710 3rd St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94107",
+    website_url:
+      "https://locations.tacobell.com/ca/san-francisco/710-third-street.html",
+    menu_url: "https://www.tacobell.com/food",
+    nutrition_url: "https://www.tacobell.com/nutrition/info",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/taco-bell-san-francisco-1179093/",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/taco-bell-710-3rd-st-san-francisco/1016782",
+    other_delivery_url:
+      "https://www.seamless.com/menu/taco-bell-710-3rd-st-san-francisco/1016782",
+    hours: [
+      ["Monday", "7 AM–2 AM"],
+      ["Tuesday", "7 AM–2 AM"],
+      ["Wednesday", "7 AM–2 AM"],
+      ["Thursday", "7 AM–2 AM"],
+      ["Friday", "7 AM–2 AM"],
+      ["Saturday", "7 AM–2 AM"],
+      ["Sunday", "7 AM–2 AM"],
+    ],
+    latitude: "37.7785552",
+    longitude: "-122.3927612",
+  },
+  {
+    id: "tender-greens-30-fremont-st",
+    name: "Tender Greens",
+    description:
+      "Modern, cafeteria-style chain serving area sourced, globally influenced plates, sandwiches & salads.",
+    street_address: "30 Fremont St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94105",
+    website_url: "https://www.tendergreens.com/locations/downtown-sf",
+    menu_url: "https://www.tendergreens.com/menus/",
+    nutrition_url:
+      "https://www.tendergreens.com/wp-content/uploads/2024/03/TG-Nutrition-0324-3.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/tender-greens-san-francisco-217239/",
+    postmates_url:
+      "https://postmates.com/store/tender-greens-downtown-san-francisco/njWOWdtNQqaJmWDa4wt1Vg",
+    ubereats_url:
+      "https://www.ubereats.com/store/tender-greens-downtown-san-francisco/njWOWdtNQqaJmWDa4wt1Vg",
+    other_delivery_url:
+      "https://www.trycaviar.com/store/tender-greens-san-francisco-217239/",
+    hours: [
+      ["Monday", "10:30AM - 8:00PM"],
+      ["Tuesday", "10:30AM - 8:00PM"],
+      ["Wednesday", "10:30AM - 8:00PM"],
+      ["Thursday", "10:30AM - 8:00PM"],
+      ["Friday", "10:30AM - 8:00PM"],
+      ["Saturday", "Closed"],
+      ["Sunday", "Closed"],
+    ],
+    latitude: "37.7907448",
+    longitude: "-122.3977077",
+  },
+  {
+    id: "the-cheese-steak-shop-1716-divisadero-st",
+    name: "The Cheese Steak Shop",
+    description:
+      "No-frills spot with counter service dishing out Philadelphia-style cheesesteaks & hoagies.",
+    street_address: "1716 Divisadero St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94115",
+    website_url: "https://www.cheesesteakshop.com/",
+    menu_url: "https://www.cheesesteakshop.com/menu/",
+    takeout: true,
+    delivery: true,
+    doordash_url: "https://www.doordash.com/business/cheese-steak-shop-4014/",
+    postmates_url:
+      "https://postmates.com/store/cheese-steak-shop-san-francisco/z6FArSGxQNG6UHde0bXIdQ",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/the-cheese-steak-shop-1716-divisadero-st-san-francisco/1153081",
+    hours: [
+      ["Monday", "10 AM–9 PM"],
+      ["Tuesday", "10 AM–9 PM"],
+      ["Wednesday", "10 AM–9 PM"],
+      ["Thursday", "10 AM–9 PM"],
+      ["Friday", "10 AM–9 PM"],
+      ["Saturday", "10 AM–9 PM"],
+      ["Sunday", "10 AM–9 PM"],
+    ],
+    latitude: "37.7855481",
+    longitude: "-122.4397984",
+  },
+  {
+    id: "the-melt-925-market-st",
+    name: "The Melt",
+    description:
+      "Sleek, counter-serve chain known for its grilled cheese, burgers, mac and cheese, and fries.",
+    street_address: "925 Market Street, 5th St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94103",
+    website_url: "https://www.themelt.com/",
+    menu_url: "https://www.themelt.com/our-menu",
+    nutrition_url: "https://www.themelt.com/nutrition",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/the-melt-san-francisco-207537/",
+    postmates_url:
+      "https://postmates.com/store/the-melt-925-market-st-san-francisco/t7Sy44a9RAOtFsr3-Ay3Tg",
+    ubereats_url:
+      "https://www.ubereats.com/store/the-melt-925-market-st-san-francisco/t7Sy44a9RAOtFsr3-Ay3Tg",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/the-melt---925-market-sf-925-market-st-san-francisco/2028596",
+    other_delivery_url:
+      "https://www.seamless.com/menu/the-melt---925-market-sf-925-market-st-san-francisco/2028596",
+    hours: [
+      ["Monday", "10:00am - 3:00am"],
+      ["Tuesday", "10:00am - 3:00am"],
+      ["Wednesday", "10:00am - 3:00am"],
+      ["Thursday", "10:00am - 3:00am"],
+      ["Friday", "10:00am - 3:00am"],
+      ["Saturday", "10:00am - 3:00am"],
+      ["Sunday", "11:00am - 3:00am"],
+    ],
+    latitude: "37.783308",
+    longitude: "-122.408452",
+  },
+  {
+    id: "the-melt-455-market-st",
+    name: "The Melt",
+    description:
+      "Sleek, counter-serve chain known for its grilled cheese, burgers, mac and cheese, and fries.",
+    street_address: "455 Market Street at First, Suite #140,",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94105",
+    website_url: "https://www.themelt.com/",
+    menu_url: "https://www.themelt.com/our-menu",
+    nutrition_url: "https://www.themelt.com/nutrition",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/the-melt-san-francisco-422819/",
+    postmates_url:
+      "https://postmates.com/store/the-melt-455-market-st-san-francisco/MxDSflh7QNOK0kCN6qiCxw",
+    ubereats_url:
+      "https://www.ubereats.com/store/the-melt-455-market-st-san-francisco/MxDSflh7QNOK0kCN6qiCxw",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/the-melt---1st--market-sf-455-market-st-ste-140-san-francisco/2027274",
+    other_delivery_url:
+      "https://www.seamless.com/menu/the-melt---1st--market-sf-455-market-st-ste-140-san-francisco/2027274",
+    hours: [
+      ["Monday", "10 AM–2 AM"],
+      ["Tuesday", "10 AM–2 AM"],
+      ["Wednesday", "10 AM–2 AM"],
+      ["Thursday", "10 AM–2 AM"],
+      ["Friday", "10 AM–2 AM"],
+      ["Saturday", "10 AM–2 AM"],
+      ["Sunday", "10 AM–2 AM"],
+    ],
+    latitude: "37.7910086",
+    longitude: "-122.3988368",
+  },
+  {
+    id: "togos-sandwiches-2300-16th-st-275",
+    name: "TOGO'S Sandwiches",
+    description:
+      "Counter-service chain offering made-to-order hot & cold sandwiches in straightforward surroundings.",
+    street_address: "2300 16th St #275",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94103",
+    website_url:
+      "https://www.togos.com/locations/san-francisco/2300-16th-st-ste-275",
+    menu_url: "https://www.togos.com/menu/",
+    nutrition_url:
+      "https://www.togos.com/wp-content/uploads/2018/04/TOGOS-NUTRITIONAL-INFO.pdf",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/catering-by-togo%27s-sandwiches-san-francisco-25418115/",
+    postmates_url:
+      "https://postmates.com/store/togos-2300-16th-st-san-francisco-ca/RaSMnY28RuKMA7rXlAC_Iw",
+    ubereats_url:
+      "https://www.ubereats.com/store/togos-2300-16th-st-san-francisco-/RaSMnY28RuKMA7rXlAC_Iw",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/togos-2300-16th-street-275-san-francisco/328633",
+    other_delivery_url:
+      "https://www.seamless.com/menu/togos-2300-16th-street-275-san-francisco/328633",
+    hours: [
+      ["Monday", "9:30 AM–8 PM"],
+      ["Tuesday", "9:30 AM–8 PM"],
+      ["Wednesday", "9:30 AM–8 PM"],
+      ["Thursday", "9:30 AM–8 PM"],
+      ["Friday", "9:30 AM–8 PM"],
+      ["Saturday", "9:30 AM–8 PM"],
+      ["Sunday", "9:30 AM–8 PM"],
+    ],
+    latitude: "37.99227763",
+    longitude: "-122.1639643",
+  },
+  {
+    id: "trailer-birds-1428-polk-st",
+    name: "Trailer Birds",
+    description: "Nashville-style fried chicken joint.",
+    street_address: "1428 Polk St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94109",
+    website_url: "https://www.trailerbirds.com/",
+    menu_url:
+      "https://www.trailerbirds.com/static/docs/trailer-birds-menu-at-a-glance.pdf",
+    nutrition_url: "https://www.trailerbirds.com/company/nutritional",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/en-CA/store/trailer-birds-hot-chicken-san-francisco-24735872/",
+    postmates_url: undefined,
+    ubereats_url: undefined,
+    grubhub_url: undefined,
+    other_delivery_url:
+      "https://www.seamless.com/menu/trailer-birds-1428-polk-st-san-francisco/5625728",
+    hours: [
+      ["Monday", "11 AM–9 PM"],
+      ["Tuesday", "11 AM–9 PM"],
+      ["Wednesday", "11 AM–9 PM"],
+      ["Thursday", "11 AM–9 PM"],
+      ["Friday", "11 AM–9 PM"],
+      ["Saturday", "11 AM–9 PM"],
+      ["Sunday", "11 AM–9 PM"],
+    ],
+    latitude: "37.7901112",
+    longitude: "-122.4204736",
+  },
+  {
+    id: "trailer-birds-590-van-ness-ave",
+    name: "Trailer Birds",
+    description: "Nashville-style fried chicken joint.",
+    street_address: "590 Van Ness Ave",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94102",
+    website_url:
+      "https://www.trailerbirds.com/locations/california/san-francisco/boost-san-francisco-trailer-birds",
+    menu_url:
+      "https://www.trailerbirds.com/static/docs/trailer-birds-menu-at-a-glance.pdf",
+    nutrition_url: "https://www.trailerbirds.com/company/nutritional",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/en-CA/store/trailer-birds-hot-chicken-san-francisco-23874479/",
+    postmates_url: undefined,
+    ubereats_url: undefined,
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/trailer-birds-590-van-ness-ave-san-francisco/4811008",
+    other_delivery_url:
+      "https://www.seamless.com/food/trailer_birds/ca-san_francisco",
+    hours: [
+      ["Monday", "11 AM–9 PM"],
+      ["Tuesday", "11 AM–9 PM"],
+      ["Wednesday", "11 AM–9 PM"],
+      ["Thursday", "11 AM–9 PM"],
+      ["Friday", "11 AM–9 PM"],
+      ["Saturday", "11 AM–9 PM"],
+      ["Sunday", "11 AM–9 PM"],
+    ],
+    latitude: "37.7808311",
+    longitude: "-122.4199593",
+  },
+  {
+    id: "umai-savory-hot-dogs-865-market-st",
+    name: "Umai Savory Hot Dogs",
+    description: "Hot dog spot that offers a variety of toppings and sauces.",
+    street_address: "865 Market St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94103",
+    website_url: "http://umaihotdogs.com/",
+    menu_url: "https://umaihotdogs.com/menu/",
+    nutrition_url: "https://umaihotdogs.com/nutritional-information/",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/umai-savory-hot-dogs-san-francisco-1188641/",
+    postmates_url:
+      "https://postmates.com/store/umai-savory-hot-dogs-%23105/L-Cnw-3_T7uaHAL30Ukfcg",
+    ubereats_url:
+      "https://www.ubereats.com/store/umai-savory-hot-dogs-%23105/L-Cnw-3_T7uaHAL30Ukfcg",
+    grubhub_url: undefined,
+    other_delivery_url:
+      "https://www.toasttab.com/local/order/umai-savory-hot-dogs-san-francisco-store-105-845-market-street-fc-7/r-5de856fc-2e62-4e21-a811-d3f9d22f9bc4",
+    hours: [
+      ["Monday", "11 AM–7 PM"],
+      ["Tuesday", "11 AM–7 PM"],
+      ["Wednesday", "11 AM–7 PM"],
+      ["Thursday", "11 AM–7 PM"],
+      ["Friday", "11 AM–7 PM"],
+      ["Saturday", "11 AM–8 PM"],
+      ["Sunday", "11 AM–7 PM"],
+    ],
+    latitude: "37.7845212",
+    longitude: "-122.4059497",
+  },
+  {
+    id: "umami-express-60-morris-st",
+    name: "Umami Express",
+    description: "Asian fusion restaurant with a variety of bowls.",
+    street_address: "60 Morris St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94107",
+    website_url: "https://umamiexpress.co/",
+    menu_url: "https://umamiexpress.co/menu",
+    nutrition_url: "https://umamiexpress.co/nutrition",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/umami-express-san-francisco-1336250/",
+    postmates_url:
+      "https://postmates.com/store/umami-express/H91VobS0R6SVcdTpAsHjpQ",
+    ubereats_url:
+      "https://www.ubereats.com/store/umami-express/H91VobS0R6SVcdTpAsHjpQ",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/umami-express-60-morris-st-san-francisco/2443232",
+    other_delivery_url:
+      "https://www.trycaviar.com/store/umami-express-san-francisco-1336250/",
+    hours: [
+      ["Monday", "9:30 AM–1 AM"],
+      ["Tuesday", "9:30 AM–1 AM"],
+      ["Wednesday", "9:30 AM–1 AM"],
+      ["Thursday", "9:30 AM–1 AM"],
+      ["Friday", "9:30 AM–1 AM"],
+      ["Saturday", "10:30 AM–1 AM"],
+      ["Sunday", "10:30 AM–1 AM"],
+    ],
+    latitude: "37.7766548",
+    longitude: "-122.4025289",
+  },
+  {
+    id: "wow-burgers-grill-2040-ocean-ave",
+    name: "WOW!! BURGERS & GRILL",
+    description:
+      "Branch of a counter-serve chain catering to health-minded eaters with wraps, salads, shakes & more.",
+    street_address: "2040 Ocean Ave",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94127",
+    website_url: "https://musclemakergrill.com/locations/",
+    menu_url: "https://www.musclemakergrill.com/menu",
+    nutrition_url: "https://www.musclemakergrill.com/nutrition",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/wow!!-burgers-and-grill-san-francisco-22932309/",
+    postmates_url: undefined,
+    ubereats_url: undefined,
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/wow-burgers-and-grill-2040-ocean-ave-san-francisco/7863424",
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "11 AM–9 PM"],
+      ["Tuesday", "11 AM–9 PM"],
+      ["Wednesday", "11 AM–9 PM"],
+      ["Thursday", "11 AM–9 PM"],
+      ["Friday", "11 AM–9 PM"],
+      ["Saturday", "Closed"],
+      ["Sunday", "11 AM–9 PM"],
+    ],
+    latitude: "37.7266179",
+    longitude: "-122.4649905",
+  },
 ];
