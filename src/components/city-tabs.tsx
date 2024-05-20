@@ -2,7 +2,7 @@
 
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "~/components/ui/tabs";
 import { LoadingSpinner } from "~/components/loading-spinner";
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { type CityInfo } from "~/data/cities";
 import dynamic from "next/dynamic";
 import { getRestaurantColumns } from "~/components/restaurant-columns";
@@ -17,6 +17,22 @@ export function CityTabs({ city }: { city: CityInfo }) {
   const pathname = usePathname();
   const [loading, setLoading] = useState(true);
   const restaurantColumns = getRestaurantColumns(pathname);
+  const [query, setQuery] = useState("");
+  const [filteredRestaurants, setFilteredRestaurants] = useState(
+    city.restaurants,
+  );
+
+  useEffect(() => {
+    setFilteredRestaurants(
+      city.restaurants.filter(
+        (r) =>
+          r.name.toLowerCase().includes(query.toLowerCase()) ||
+          r.description.toLowerCase().includes(query.toLowerCase()) ||
+          r.street_address.toLowerCase().includes(query.toLowerCase()) ||
+          r.zip.toLowerCase().includes(query.toLowerCase()),
+      ),
+    );
+  }, [query]);
 
   return (
     <Tabs defaultValue="map">
@@ -32,12 +48,17 @@ export function CityTabs({ city }: { city: CityInfo }) {
       <TabsContent value="map">
         <CityMap
           options={city.mapOptions}
-          restaurants={city.restaurants}
+          restaurants={filteredRestaurants}
           setLoading={setLoading}
         />
       </TabsContent>
       <TabsContent value="list">
-        <RestaurantTable columns={restaurantColumns} data={city.restaurants} />
+        <RestaurantTable
+          columns={restaurantColumns}
+          data={filteredRestaurants}
+          query={query}
+          setQuery={setQuery}
+        />
       </TabsContent>
     </Tabs>
   );

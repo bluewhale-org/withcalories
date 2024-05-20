@@ -3,11 +3,9 @@
 import * as React from "react";
 import {
   type ColumnDef,
-  type ColumnFiltersState,
   type SortingState,
   flexRender,
   getCoreRowModel,
-  getFilteredRowModel,
   getPaginationRowModel,
   getSortedRowModel,
   useReactTable,
@@ -28,31 +26,29 @@ import { type Restaurant } from "~/data/restaurants";
 interface DataTableProps {
   columns: ColumnDef<Restaurant>[];
   data: Restaurant[];
+  query: string;
+  setQuery: React.Dispatch<React.SetStateAction<string>>;
 }
 
-export function RestaurantTable({ columns, data }: DataTableProps) {
+export function RestaurantTable({
+  columns,
+  data,
+  query,
+  setQuery,
+}: DataTableProps) {
   const [sorting, setSorting] = React.useState<SortingState>([
     { id: "name", desc: false },
   ]);
-  const [columnFilters, setColumnFilters] = React.useState<ColumnFiltersState>(
-    [],
-  );
-  const [rowSelection, setRowSelection] = React.useState({});
 
   const table = useReactTable({
     data,
     columns,
     onSortingChange: setSorting,
-    onColumnFiltersChange: setColumnFilters,
     getCoreRowModel: getCoreRowModel(),
     getPaginationRowModel: getPaginationRowModel(),
     getSortedRowModel: getSortedRowModel(),
-    getFilteredRowModel: getFilteredRowModel(),
-    onRowSelectionChange: setRowSelection,
     state: {
       sorting,
-      columnFilters,
-      rowSelection,
     },
     initialState: {
       columnVisibility: {
@@ -70,10 +66,8 @@ export function RestaurantTable({ columns, data }: DataTableProps) {
       <div className="flex flex-col justify-between gap-4 pb-4 md:flex-row md:items-center">
         <Input
           placeholder="Search restaurants..."
-          value={(table.getColumn("name")?.getFilterValue() as string) ?? ""}
-          onChange={(event) =>
-            table.getColumn("name")?.setFilterValue(event.target.value)
-          }
+          value={query}
+          onChange={(event) => setQuery(event.target.value)}
           className="max-w-sm"
         />
         <div className="flex items-center gap-8">{/* todo: add toggles */}</div>
