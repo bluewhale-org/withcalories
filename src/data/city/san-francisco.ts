@@ -2079,6 +2079,41 @@ export const sanFrancisco: Restaurant[] = [
     longitude: "-122.4356504",
   },
   {
+    id: "mixt-901-valencia-st",
+    name: "Mixt",
+    description:
+      "Eco-minded local chain serving gourmet salads & sandwiches in a modern, counter-serve setting.",
+    street_address: "901 Valencia St.",
+    city: "San Francisco",
+    state: "CA",
+    zip: "94110",
+    website_url: "https://www.mixt.com/",
+    menu_url: "https://www.mixt.com/menu/",
+    nutrition_url: "https://www.mixt.com/nutrition/",
+    takeout: true,
+    delivery: true,
+    doordash_url:
+      "https://www.doordash.com/store/mixt-salads-san-francisco-710904/",
+    postmates_url:
+      "https://postmates.com/store/mixt-valencia/bDYBFTzZSNWHQoWy7N_dUw",
+    ubereats_url:
+      "https://www.ubereats.com/store/mixt-valencia/bDYBFTzZSNWHQoWy7N_dUw",
+    grubhub_url:
+      "https://www.grubhub.com/restaurant/mixt-901-valencia-st-san-francisco/2249585",
+    other_delivery_url: undefined,
+    hours: [
+      ["Monday", "10:30 AM–9 PM"],
+      ["Tuesday", "10:30 AM–9 PM"],
+      ["Wednesday", "10:30 AM–9 PM"],
+      ["Thursday", "10:30 AM–9 PM"],
+      ["Friday", "10:30 AM–9 PM"],
+      ["Saturday", "10:30 AM–9 PM"],
+      ["Sunday", "10:30 AM–9 PM"],
+    ],
+    latitude: "37.758350",
+    longitude: "-122.420959",
+  },
+  {
     id: "mr-charlies-432-sutter-st",
     name: "Mr Charlie's",
     description: "Plant-based fast-food restaurant.",
