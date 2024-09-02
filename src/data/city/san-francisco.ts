@@ -1011,43 +1011,6 @@ export const sanFrancisco: Restaurant[] = [
     longitude: "-122.489983",
   },
   {
-    id: "dennys-816-mission-st",
-    name: "Denny's",
-    description:
-      "Casual diner chain dishing up classic American comfort fare, including all-day breakfast favorites.",
-    street_address: "816 Mission St",
-    city: "San Francisco",
-    state: "CA",
-    zip: "94103",
-    website_url: "https://locations.dennys.com/CA/SAN-FRANCISCO/246873",
-    menu_url: "https://www.dennys.com/location/dennys-6873/menu",
-    nutrition_url:
-      "https://www.dennys.com/sites/default/files/2022-11/oct22_Nutrition_Guide.pdf",
-    takeout: true,
-    delivery: true,
-    doordash_url:
-      "https://www.doordash.com/store/denny%27s-san-francisco-2938/",
-    postmates_url:
-      "https://postmates.com/store/dennys-soma/pgahNG4ATridvy9zSBCI0Q",
-    ubereats_url:
-      "https://www.ubereats.com/store/dennys-soma/pgahNG4ATridvy9zSBCI0Q",
-    grubhub_url:
-      "https://www.grubhub.com/restaurant/dennys-mission-st-816-mission-st-san-francisco/316685",
-    other_delivery_url:
-      "https://www.seamless.com/menu/dennys-mission-st-816-mission-st-san-francisco/316685",
-    hours: [
-      ["Monday", "Open 24 hours"],
-      ["Tuesday", "Open 24 hours"],
-      ["Wednesday", "Open 24 hours"],
-      ["Thursday", "Open 24 hours"],
-      ["Friday", "Open 24 hours"],
-      ["Saturday", "Open 24 hours"],
-      ["Sunday", "Open 24 hours"],
-    ],
-    latitude: "37.7842287",
-    longitude: "-122.4049526",
-  },
-  {
     id: "dickeys-barbecue-pit-590-van-ness-ave",
     name: "Dickey's Barbecue Pit",
     description:
